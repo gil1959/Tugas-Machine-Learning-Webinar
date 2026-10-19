@@ -1,0 +1,1201 @@
+session_id,provinsi,kuartal,kategori_layanan,ui_design_version,sus_usability_score,nasa_tlx_cognitive_load,time_to_insight_sec,decision_error_pct,sla_completion_rate_pct,active_citizens_served
+UCD-SES-60000,DKI Jakarta,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,45.8,80.5,69.5,19.1,78.58,2423
+UCD-SES-60001,Jawa Barat,2025-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,92.5,38.5,21.0,0.52,81.53,1910
+UCD-SES-60002,DI Yogyakarta,2025-Q4,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,94.6,34.0,14.6,1.88,82.86,1972
+UCD-SES-60003,DKI Jakarta,2026-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,87.0,30.3,13.5,1.73,92.09,2387
+UCD-SES-60004,Sumatera Selatan,2026-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,81.3,24.1,24.6,4.3,90.64,1918
+UCD-SES-60005,Kalimantan Timur,2026-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,78.2,23.5,22.6,10.04,84.99,1960
+UCD-SES-60006,Jawa Timur,2026-Q3,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,74.1,46.8,12.4,15.78,84.69,1921
+UCD-SES-60007,DKI Jakarta,2026-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,82.6,30.8,15.1,5.23,83.26,2336
+UCD-SES-60008,Jawa Timur,2025-Q2,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,55.9,77.3,94.8,18.44,73.57,1955
+UCD-SES-60009,Kalimantan Timur,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,55.3,73.5,41.1,23.09,70.82,1981
+UCD-SES-60010,Jawa Barat,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,83.1,29.6,14.8,2.86,91.28,1936
+UCD-SES-60011,Kalimantan Timur,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,59.0,53.6,42.9,12.64,82.39,1941
+UCD-SES-60012,DKI Jakarta,2026-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,86.3,33.9,24.5,3.75,88.45,2418
+UCD-SES-60013,Bengkulu,2025-Q4,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,63.4,83.1,34.0,20.8,77.93,1805
+UCD-SES-60014,Sumatera Selatan,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,71.3,76.1,63.8,18.39,76.96,1931
+UCD-SES-60015,Sumatera Selatan,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,59.0,56.9,59.0,4.13,83.03,1989
+UCD-SES-60016,Sumatera Barat,2025-Q4,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,81.6,35.9,16.9,1.11,86.54,1936
+UCD-SES-60017,Jawa Barat,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,72.5,33.6,19.7,4.47,82.95,1941
+UCD-SES-60018,DKI Jakarta,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,43.1,96.0,92.4,21.53,75.89,2371
+UCD-SES-60019,Jawa Timur,2025-Q2,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,59.8,64.0,62.9,16.85,85.52,1951
+UCD-SES-60020,Kalimantan Timur,2025-Q4,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,88.4,37.3,15.1,7.0,81.81,1914
+UCD-SES-60021,Sumatera Barat,2026-Q3,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,52.7,61.9,39.5,22.14,83.08,1951
+UCD-SES-60022,Bengkulu,2026-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,83.4,26.8,15.2,0.71,82.96,1774
+UCD-SES-60023,Bengkulu,2026-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,87.1,43.5,17.1,0.61,77.65,1725
+UCD-SES-60024,Bengkulu,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,41.4,49.9,42.6,17.83,81.27,1766
+UCD-SES-60025,Sumatera Selatan,2025-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,74.0,29.7,13.5,3.0,81.96,1958
+UCD-SES-60026,DI Yogyakarta,2025-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,47.8,66.9,40.0,9.98,83.65,1941
+UCD-SES-60027,Bengkulu,2026-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,85.3,24.8,15.6,2.44,84.9,1773
+UCD-SES-60028,Sumatera Barat,2026-Q2,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,43.8,66.3,56.9,9.28,78.61,1995
+UCD-SES-60029,DKI Jakarta,2026-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,53.4,74.4,50.4,10.45,78.07,2387
+UCD-SES-60030,DI Yogyakarta,2025-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,62.3,76.4,30.8,19.91,75.76,1973
+UCD-SES-60031,Jawa Timur,2026-Q2,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,67.4,55.5,32.5,17.67,81.8,1947
+UCD-SES-60032,Jawa Barat,2026-Q2,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,79.9,36.5,11.4,0.5,83.89,1936
+UCD-SES-60033,Jawa Timur,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,62.1,68.4,61.0,20.2,79.66,1995
+UCD-SES-60034,Bengkulu,2025-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,49.0,58.7,61.2,18.42,82.9,1851
+UCD-SES-60035,Jawa Barat,2026-Q1,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,75.8,35.4,20.0,0.13,81.07,1965
+UCD-SES-60036,DI Yogyakarta,2026-Q2,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,84.4,34.9,18.5,4.89,83.15,1967
+UCD-SES-60037,Jawa Timur,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,82.0,33.2,15.0,4.11,85.49,1938
+UCD-SES-60038,Kalimantan Timur,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,46.9,58.4,22.9,18.79,82.95,2004
+UCD-SES-60039,DI Yogyakarta,2026-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,79.0,29.8,27.9,4.59,81.88,1980
+UCD-SES-60040,Jawa Barat,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,55.9,47.0,67.4,20.7,81.23,1910
+UCD-SES-60041,DKI Jakarta,2025-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,95.0,23.5,14.4,6.91,86.42,2424
+UCD-SES-60042,Kalimantan Timur,2026-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,85.3,41.0,21.1,4.94,80.44,1956
+UCD-SES-60043,DKI Jakarta,2026-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,80.2,27.0,16.6,2.96,86.9,2462
+UCD-SES-60044,Jawa Timur,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,82.7,37.6,19.4,6.72,85.42,1954
+UCD-SES-60045,Jawa Barat,2026-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,40.4,52.5,60.9,19.29,77.91,1960
+UCD-SES-60046,DKI Jakarta,2025-Q2,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,81.8,44.0,16.0,9.32,80.49,2389
+UCD-SES-60047,DKI Jakarta,2025-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,81.9,44.3,22.9,0.8,84.19,2329
+UCD-SES-60048,Jawa Timur,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,53.8,61.8,47.1,11.57,84.62,1931
+UCD-SES-60049,Bengkulu,2025-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,45.8,74.3,41.6,11.67,78.25,1720
+UCD-SES-60050,DKI Jakarta,2025-Q4,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,85.4,36.7,13.6,4.26,84.49,2428
+UCD-SES-60051,Jawa Timur,2026-Q3,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,92.2,43.6,18.7,0.78,84.34,1957
+UCD-SES-60052,Sumatera Selatan,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,57.5,71.2,47.4,5.84,77.5,1981
+UCD-SES-60053,Jawa Timur,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,88.0,44.1,18.7,0.31,81.04,1906
+UCD-SES-60054,Jawa Barat,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,47.0,91.7,32.5,23.5,69.24,1946
+UCD-SES-60055,Jawa Barat,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,85.7,37.0,15.7,8.44,90.95,1903
+UCD-SES-60056,DI Yogyakarta,2026-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,82.8,33.6,24.2,1.63,88.7,2012
+UCD-SES-60057,Jawa Barat,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,99.0,28.0,21.6,1.06,86.13,1895
+UCD-SES-60058,Jawa Barat,2026-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,85.1,45.5,23.5,0.38,80.45,1952
+UCD-SES-60059,DI Yogyakarta,2026-Q3,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,39.4,71.8,20.7,9.32,78.94,1920
+UCD-SES-60060,DKI Jakarta,2025-Q4,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,48.8,73.9,60.2,10.46,80.68,2408
+UCD-SES-60061,Sumatera Barat,2025-Q4,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,84.2,22.6,13.3,1.92,82.19,1845
+UCD-SES-60062,Jawa Barat,2025-Q1,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,39.4,79.5,39.1,19.66,78.27,1934
+UCD-SES-60063,Jawa Timur,2025-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,73.4,43.3,9.0,3.11,83.66,1987
+UCD-SES-60064,Sumatera Selatan,2025-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,82.3,37.8,14.2,0.2,87.64,1899
+UCD-SES-60065,Sumatera Selatan,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,83.5,32.0,18.5,2.73,85.94,1956
+UCD-SES-60066,Kalimantan Timur,2026-Q1,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,60.3,72.8,53.0,17.18,74.96,1964
+UCD-SES-60067,DI Yogyakarta,2025-Q4,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,89.2,20.7,44.5,0.43,90.66,1967
+UCD-SES-60068,Sumatera Barat,2025-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,56.8,53.7,24.8,26.74,80.11,1975
+UCD-SES-60069,Sumatera Selatan,2025-Q4,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,89.2,28.5,31.5,1.95,85.44,1977
+UCD-SES-60070,DKI Jakarta,2026-Q3,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,51.8,64.7,66.9,16.85,76.48,2437
+UCD-SES-60071,Bengkulu,2026-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,81.8,51.9,15.3,1.54,80.89,1737
+UCD-SES-60072,Jawa Barat,2026-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,78.9,23.7,16.4,0.24,81.21,1971
+UCD-SES-60073,DKI Jakarta,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,49.8,63.2,30.7,25.44,76.6,2418
+UCD-SES-60074,Kalimantan Timur,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,90.8,31.2,11.5,6.46,83.81,1888
+UCD-SES-60075,Jawa Timur,2025-Q3,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,60.4,76.0,82.8,21.11,80.45,1980
+UCD-SES-60076,Sumatera Barat,2026-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,71.4,45.3,14.7,2.69,84.35,1962
+UCD-SES-60077,Jawa Timur,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,80.0,23.0,25.5,0.98,88.0,1916
+UCD-SES-60078,Kalimantan Timur,2026-Q2,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,65.8,77.7,26.2,12.68,74.49,1956
+UCD-SES-60079,Jawa Barat,2026-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,86.4,34.3,17.7,1.77,88.56,2024
+UCD-SES-60080,DKI Jakarta,2025-Q4,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,58.7,57.6,72.9,21.61,83.58,2382
+UCD-SES-60081,DKI Jakarta,2025-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,58.3,85.0,78.2,13.06,77.96,2398
+UCD-SES-60082,Bengkulu,2026-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,77.3,36.0,14.5,5.41,85.04,1790
+UCD-SES-60083,DI Yogyakarta,2025-Q2,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,57.1,77.1,53.7,27.2,80.64,1959
+UCD-SES-60084,Bengkulu,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,77.7,32.7,9.9,0.31,83.52,1768
+UCD-SES-60085,Sumatera Selatan,2025-Q4,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,80.7,31.8,28.3,3.25,92.33,1984
+UCD-SES-60086,Kalimantan Timur,2026-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,61.3,71.2,81.7,17.52,83.96,1945
+UCD-SES-60087,Sumatera Selatan,2025-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,95.4,31.4,13.7,2.88,83.75,1957
+UCD-SES-60088,DKI Jakarta,2026-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,82.2,24.7,16.5,4.74,92.61,2382
+UCD-SES-60089,DKI Jakarta,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,49.8,77.7,79.9,13.05,72.72,2452
+UCD-SES-60090,DI Yogyakarta,2025-Q1,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,95.1,38.3,19.1,0.68,78.5,1908
+UCD-SES-60091,Kalimantan Timur,2025-Q3,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,47.9,64.0,53.0,13.02,69.81,1943
+UCD-SES-60092,DKI Jakarta,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,52.2,89.5,40.6,21.34,75.17,2387
+UCD-SES-60093,Sumatera Selatan,2025-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,80.7,27.4,20.0,0.35,87.52,1939
+UCD-SES-60094,Kalimantan Timur,2025-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,57.3,84.7,49.1,24.45,76.66,1925
+UCD-SES-60095,DI Yogyakarta,2026-Q2,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,78.8,25.9,10.5,0.49,88.75,1921
+UCD-SES-60096,DKI Jakarta,2026-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,60.0,73.3,34.3,29.98,71.21,2443
+UCD-SES-60097,Sumatera Barat,2026-Q1,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,74.1,33.3,20.0,0.76,84.02,1990
+UCD-SES-60098,DKI Jakarta,2025-Q1,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,47.7,69.7,32.3,11.89,80.66,2382
+UCD-SES-60099,Sumatera Selatan,2026-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,70.2,69.1,24.0,20.56,79.29,1973
+UCD-SES-60100,Sumatera Barat,2025-Q4,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,83.8,37.4,19.5,2.79,85.31,1999
+UCD-SES-60101,DI Yogyakarta,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,87.4,25.7,15.4,3.25,88.47,1933
+UCD-SES-60102,Bengkulu,2025-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,90.5,32.1,11.1,0.63,88.51,1719
+UCD-SES-60103,Bengkulu,2025-Q2,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,56.9,62.2,87.5,20.88,84.23,1732
+UCD-SES-60104,DKI Jakarta,2025-Q4,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,34.7,75.4,39.2,14.38,76.7,2351
+UCD-SES-60105,Jawa Barat,2026-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,73.8,31.5,14.9,5.69,87.2,1917
+UCD-SES-60106,Kalimantan Timur,2025-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,85.4,33.0,11.3,2.19,88.36,1964
+UCD-SES-60107,Sumatera Selatan,2026-Q3,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,91.7,12.0,15.6,0.45,91.86,1910
+UCD-SES-60108,Sumatera Barat,2025-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,79.1,28.3,18.3,2.16,84.97,1928
+UCD-SES-60109,DI Yogyakarta,2026-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,80.8,38.1,14.6,0.64,84.41,1961
+UCD-SES-60110,Sumatera Selatan,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,88.7,34.5,17.8,7.39,86.13,1955
+UCD-SES-60111,Jawa Barat,2025-Q2,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,54.4,60.5,87.4,17.15,77.06,1955
+UCD-SES-60112,DI Yogyakarta,2025-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,84.1,19.1,16.6,0.23,90.64,1893
+UCD-SES-60113,Jawa Barat,2025-Q1,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,56.3,74.6,74.5,14.85,77.64,1948
+UCD-SES-60114,Jawa Barat,2026-Q1,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,47.6,56.6,54.5,12.44,79.98,1961
+UCD-SES-60115,DKI Jakarta,2025-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,69.6,69.7,31.3,23.23,77.8,2418
+UCD-SES-60116,Sumatera Barat,2025-Q3,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,87.0,25.7,14.8,3.28,86.41,1891
+UCD-SES-60117,Sumatera Barat,2026-Q1,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,99.0,31.4,12.9,2.4,87.42,1941
+UCD-SES-60118,DKI Jakarta,2026-Q3,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,84.1,16.6,10.8,1.15,82.09,2397
+UCD-SES-60119,DKI Jakarta,2025-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,37.9,68.9,62.3,21.84,78.4,2427
+UCD-SES-60120,DI Yogyakarta,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,51.8,83.8,56.7,29.06,75.25,1992
+UCD-SES-60121,Kalimantan Timur,2025-Q4,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,87.4,50.9,22.6,4.23,80.03,1971
+UCD-SES-60122,DI Yogyakarta,2026-Q1,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,80.5,43.5,24.9,10.5,72.76,1890
+UCD-SES-60123,Sumatera Selatan,2025-Q2,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,67.6,65.5,50.4,22.94,78.99,1948
+UCD-SES-60124,Jawa Timur,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,55.2,65.2,36.0,19.98,79.64,1958
+UCD-SES-60125,Kalimantan Timur,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,81.8,39.3,13.9,2.9,87.42,1954
+UCD-SES-60126,Kalimantan Timur,2025-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,30.3,66.5,46.0,6.46,81.03,1938
+UCD-SES-60127,Sumatera Selatan,2025-Q4,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,69.3,72.2,32.1,17.36,75.71,1976
+UCD-SES-60128,DI Yogyakarta,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,84.6,20.6,9.8,9.14,84.87,1984
+UCD-SES-60129,Sumatera Barat,2026-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,84.3,31.7,12.0,1.46,78.48,1891
+UCD-SES-60130,DI Yogyakarta,2025-Q1,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,86.7,21.4,13.3,3.02,82.91,1875
+UCD-SES-60131,Bengkulu,2025-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,63.8,60.2,68.7,16.66,81.75,1803
+UCD-SES-60132,Kalimantan Timur,2025-Q1,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,94.5,35.4,13.3,1.23,87.74,2028
+UCD-SES-60133,Kalimantan Timur,2026-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,49.0,70.4,48.6,20.37,77.3,1934
+UCD-SES-60134,Jawa Barat,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,54.7,81.8,47.7,5.86,80.32,1988
+UCD-SES-60135,Bengkulu,2025-Q1,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,44.0,68.9,48.8,12.76,74.68,1775
+UCD-SES-60136,DI Yogyakarta,2026-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,88.1,30.2,37.4,1.57,87.32,1984
+UCD-SES-60137,DI Yogyakarta,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,83.0,28.0,10.7,0.26,87.55,1980
+UCD-SES-60138,Sumatera Barat,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,79.1,24.7,21.8,1.87,88.58,1974
+UCD-SES-60139,Sumatera Selatan,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,57.3,53.7,59.2,16.83,79.53,1920
+UCD-SES-60140,Sumatera Barat,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,77.9,29.0,15.3,5.35,83.16,1915
+UCD-SES-60141,DKI Jakarta,2026-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,89.4,21.1,24.3,8.67,89.84,2406
+UCD-SES-60142,DI Yogyakarta,2026-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,76.0,33.9,16.5,0.93,87.21,1936
+UCD-SES-60143,Sumatera Selatan,2026-Q1,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,84.3,27.3,14.3,1.11,90.16,1936
+UCD-SES-60144,DKI Jakarta,2026-Q2,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,82.4,35.6,16.6,0.19,82.47,2389
+UCD-SES-60145,Kalimantan Timur,2026-Q1,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,54.6,55.9,92.2,25.43,76.26,1993
+UCD-SES-60146,Sumatera Selatan,2026-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,70.8,49.5,31.0,4.19,81.38,1903
+UCD-SES-60147,Bengkulu,2026-Q1,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,44.4,74.3,48.4,11.72,69.75,1701
+UCD-SES-60148,Bengkulu,2025-Q4,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,94.1,36.6,24.1,2.53,79.81,1839
+UCD-SES-60149,Bengkulu,2025-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,85.2,36.9,18.3,1.51,86.51,1785
+UCD-SES-60150,Sumatera Selatan,2025-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,52.9,44.2,47.9,16.07,85.21,1937
+UCD-SES-60151,DI Yogyakarta,2026-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,53.9,55.0,38.8,9.44,77.44,1918
+UCD-SES-60152,DI Yogyakarta,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,68.7,74.0,56.2,22.43,81.13,1960
+UCD-SES-60153,DKI Jakarta,2025-Q1,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,42.2,82.2,36.0,23.12,69.19,2393
+UCD-SES-60154,Jawa Barat,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,82.5,29.1,20.5,4.07,81.84,1941
+UCD-SES-60155,Jawa Timur,2026-Q3,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,78.0,67.7,28.8,15.82,75.49,1942
+UCD-SES-60156,DI Yogyakarta,2026-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,85.0,42.0,17.0,11.68,83.36,1952
+UCD-SES-60157,DKI Jakarta,2026-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,73.8,35.9,13.5,3.93,76.41,2373
+UCD-SES-60158,Sumatera Selatan,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,79.0,41.4,12.0,2.15,87.06,1943
+UCD-SES-60159,DKI Jakarta,2026-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,49.5,66.8,47.1,14.43,84.31,2368
+UCD-SES-60160,Jawa Barat,2026-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,69.6,70.6,53.7,23.96,81.04,1959
+UCD-SES-60161,Bengkulu,2025-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,94.3,19.0,15.5,0.62,92.18,1825
+UCD-SES-60162,Sumatera Selatan,2026-Q2,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,66.5,74.9,44.4,9.89,86.22,1976
+UCD-SES-60163,DKI Jakarta,2026-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,84.4,30.2,13.0,0.44,87.02,2438
+UCD-SES-60164,Jawa Barat,2025-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,73.7,68.1,49.3,19.83,82.08,1929
+UCD-SES-60165,DKI Jakarta,2026-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,70.5,85.6,52.9,17.28,72.36,2446
+UCD-SES-60166,Jawa Barat,2025-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,96.2,23.7,21.0,0.81,89.3,1964
+UCD-SES-60167,Jawa Barat,2025-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,89.8,20.2,16.8,4.76,90.05,1890
+UCD-SES-60168,Sumatera Barat,2026-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,58.4,72.6,55.5,18.12,86.68,1921
+UCD-SES-60169,Bengkulu,2025-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,63.6,44.6,42.5,24.42,81.11,1814
+UCD-SES-60170,Bengkulu,2026-Q1,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,48.2,74.2,27.2,19.8,81.39,1751
+UCD-SES-60171,Jawa Timur,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,99.0,36.4,17.1,6.76,88.79,1888
+UCD-SES-60172,Kalimantan Timur,2025-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,54.0,57.1,45.1,28.65,78.22,1924
+UCD-SES-60173,Sumatera Selatan,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,54.9,69.2,28.9,10.56,77.72,1947
+UCD-SES-60174,Jawa Timur,2025-Q4,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,50.7,56.5,39.2,15.92,83.45,1946
+UCD-SES-60175,Jawa Timur,2026-Q2,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,57.7,77.0,42.2,13.32,80.54,1895
+UCD-SES-60176,Kalimantan Timur,2025-Q4,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,44.4,61.3,30.7,20.28,84.17,1980
+UCD-SES-60177,DKI Jakarta,2025-Q4,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,49.8,63.6,27.9,13.09,74.92,2423
+UCD-SES-60178,Sumatera Selatan,2026-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,36.3,58.4,68.1,7.75,81.55,1972
+UCD-SES-60179,Kalimantan Timur,2026-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,79.3,39.3,20.2,4.33,87.85,1952
+UCD-SES-60180,Sumatera Barat,2025-Q2,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,76.5,26.2,17.4,12.78,88.32,1950
+UCD-SES-60181,Sumatera Selatan,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,87.6,29.0,8.9,3.96,80.87,1976
+UCD-SES-60182,Kalimantan Timur,2025-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,58.7,76.3,25.5,14.36,83.56,1998
+UCD-SES-60183,DI Yogyakarta,2025-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,45.5,71.1,55.7,16.63,76.72,1972
+UCD-SES-60184,Jawa Timur,2025-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,78.8,19.8,8.8,4.6,86.52,1969
+UCD-SES-60185,Bengkulu,2025-Q1,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,53.0,58.5,62.4,11.93,74.59,1782
+UCD-SES-60186,DKI Jakarta,2025-Q2,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,80.1,32.3,19.6,0.62,85.7,2408
+UCD-SES-60187,Jawa Timur,2026-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,86.9,41.7,12.8,4.3,81.27,1909
+UCD-SES-60188,Sumatera Selatan,2026-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,89.5,20.8,11.9,3.36,88.76,1976
+UCD-SES-60189,Jawa Timur,2026-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,66.0,72.7,46.7,5.1,84.63,1891
+UCD-SES-60190,DI Yogyakarta,2025-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,82.1,29.5,22.6,3.64,82.4,1931
+UCD-SES-60191,DI Yogyakarta,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,93.0,40.6,14.1,4.48,85.52,1964
+UCD-SES-60192,Sumatera Selatan,2025-Q2,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,54.0,78.7,89.5,16.92,78.65,1973
+UCD-SES-60193,DI Yogyakarta,2026-Q2,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,68.1,74.1,77.7,10.71,81.29,1949
+UCD-SES-60194,DI Yogyakarta,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,59.7,75.5,43.2,20.3,82.96,1928
+UCD-SES-60195,DKI Jakarta,2026-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,79.4,28.6,18.2,3.32,90.32,2395
+UCD-SES-60196,Kalimantan Timur,2025-Q4,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,53.4,72.5,44.1,11.13,76.33,1934
+UCD-SES-60197,Jawa Timur,2025-Q1,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,72.4,85.8,43.7,17.55,78.58,1970
+UCD-SES-60198,Jawa Barat,2026-Q3,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,97.7,34.2,16.6,2.94,92.72,1966
+UCD-SES-60199,Jawa Barat,2025-Q2,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,60.4,66.3,32.6,21.07,79.51,1974
+UCD-SES-60200,Kalimantan Timur,2025-Q3,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,46.5,77.9,58.9,12.78,75.36,1933
+UCD-SES-60201,DI Yogyakarta,2026-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,45.2,68.6,67.0,12.31,75.03,1979
+UCD-SES-60202,DI Yogyakarta,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,43.9,77.8,74.9,20.82,78.53,1944
+UCD-SES-60203,DKI Jakarta,2025-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,85.0,15.1,18.7,6.52,83.93,2448
+UCD-SES-60204,DI Yogyakarta,2026-Q2,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,51.5,75.6,70.8,14.02,76.22,2015
+UCD-SES-60205,DI Yogyakarta,2026-Q1,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,74.3,76.7,44.7,16.84,79.37,1905
+UCD-SES-60206,Sumatera Barat,2026-Q3,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,49.0,65.2,55.4,14.49,86.26,1942
+UCD-SES-60207,DKI Jakarta,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,53.8,62.2,82.6,19.49,79.05,2396
+UCD-SES-60208,Bengkulu,2026-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,87.0,25.8,14.5,1.02,87.23,1749
+UCD-SES-60209,Sumatera Barat,2025-Q4,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,67.8,54.7,61.2,21.49,80.58,1951
+UCD-SES-60210,Jawa Barat,2026-Q2,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,74.6,41.1,18.3,2.06,81.24,1963
+UCD-SES-60211,Bengkulu,2026-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,79.6,31.9,24.6,2.95,84.48,1800
+UCD-SES-60212,DI Yogyakarta,2025-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,45.2,76.0,45.5,22.17,80.93,1926
+UCD-SES-60213,Jawa Timur,2026-Q3,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,88.7,35.5,19.0,1.75,84.9,1952
+UCD-SES-60214,Bengkulu,2026-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,81.8,36.2,10.2,12.38,83.22,1793
+UCD-SES-60215,Kalimantan Timur,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,96.0,40.8,17.1,4.68,82.14,1919
+UCD-SES-60216,Jawa Timur,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,78.1,38.8,16.0,0.72,86.44,1906
+UCD-SES-60217,DI Yogyakarta,2026-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,82.4,29.3,17.2,2.68,85.57,1967
+UCD-SES-60218,Kalimantan Timur,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,39.5,55.7,109.9,22.78,84.98,2022
+UCD-SES-60219,DI Yogyakarta,2025-Q4,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,49.5,67.9,44.5,12.93,82.19,1898
+UCD-SES-60220,Bengkulu,2026-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,73.3,26.1,19.3,0.36,88.16,1820
+UCD-SES-60221,Sumatera Selatan,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,62.7,60.6,33.0,26.01,77.61,1966
+UCD-SES-60222,Bengkulu,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,90.5,24.1,17.6,13.91,86.17,1751
+UCD-SES-60223,DKI Jakarta,2026-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,57.0,84.6,34.7,18.73,74.4,2433
+UCD-SES-60224,DKI Jakarta,2026-Q1,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,56.9,64.5,72.8,14.87,86.67,2389
+UCD-SES-60225,Sumatera Barat,2026-Q2,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,39.8,60.1,28.9,24.75,81.36,1970
+UCD-SES-60226,Sumatera Selatan,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,81.5,20.2,13.6,2.76,88.07,1874
+UCD-SES-60227,Sumatera Selatan,2026-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,73.7,35.4,13.1,0.27,88.73,1915
+UCD-SES-60228,Jawa Timur,2026-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,48.5,86.8,62.4,13.21,78.63,1886
+UCD-SES-60229,DI Yogyakarta,2026-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,53.8,78.2,41.6,16.13,74.99,1837
+UCD-SES-60230,Jawa Timur,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,42.9,68.0,72.1,2.0,80.79,2064
+UCD-SES-60231,Jawa Timur,2026-Q2,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,52.4,81.2,50.4,20.77,80.55,1901
+UCD-SES-60232,Sumatera Selatan,2025-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,38.4,66.9,54.5,16.23,82.92,1918
+UCD-SES-60233,DKI Jakarta,2026-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,53.5,83.3,73.1,24.95,82.2,2400
+UCD-SES-60234,Kalimantan Timur,2026-Q2,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,82.5,42.5,15.7,1.79,83.96,1875
+UCD-SES-60235,Jawa Timur,2025-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,43.5,82.0,54.4,15.21,74.11,1959
+UCD-SES-60236,DKI Jakarta,2026-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,67.4,37.6,19.1,5.8,87.85,2413
+UCD-SES-60237,Kalimantan Timur,2025-Q4,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,93.7,36.0,26.0,8.14,80.62,1956
+UCD-SES-60238,DKI Jakarta,2025-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,75.4,35.4,19.9,14.01,79.24,2321
+UCD-SES-60239,Bengkulu,2025-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,90.3,20.4,18.2,3.0,89.15,1752
+UCD-SES-60240,Bengkulu,2026-Q2,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,67.4,66.6,50.4,13.33,73.38,1759
+UCD-SES-60241,DKI Jakarta,2026-Q2,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,49.0,60.8,46.2,21.62,82.37,2380
+UCD-SES-60242,DKI Jakarta,2025-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,61.2,68.7,50.5,8.63,75.74,2411
+UCD-SES-60243,Jawa Timur,2025-Q2,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,67.7,65.8,37.5,8.34,77.64,1960
+UCD-SES-60244,Kalimantan Timur,2026-Q2,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,40.9,68.8,39.3,18.3,76.93,1865
+UCD-SES-60245,DKI Jakarta,2026-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,50.1,70.6,45.5,16.32,77.44,2451
+UCD-SES-60246,Jawa Timur,2025-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,86.3,18.8,11.6,5.95,89.45,1866
+UCD-SES-60247,DI Yogyakarta,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,40.9,63.3,48.9,12.39,77.66,1929
+UCD-SES-60248,Jawa Timur,2026-Q2,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,82.4,36.1,14.4,6.1,83.09,1933
+UCD-SES-60249,Bengkulu,2025-Q2,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,78.0,63.6,53.0,16.4,86.68,1734
+UCD-SES-60250,Sumatera Selatan,2025-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,60.9,78.6,95.1,6.79,75.72,1958
+UCD-SES-60251,Sumatera Barat,2025-Q2,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,84.6,34.2,33.4,3.15,92.78,1932
+UCD-SES-60252,Kalimantan Timur,2025-Q1,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,83.7,34.0,13.2,5.77,89.01,1922
+UCD-SES-60253,Jawa Barat,2025-Q2,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,86.8,28.9,16.9,7.66,80.59,1996
+UCD-SES-60254,Jawa Timur,2026-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,89.9,14.4,24.3,1.5,86.3,2002
+UCD-SES-60255,Kalimantan Timur,2026-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,51.6,50.3,39.2,6.32,75.49,1943
+UCD-SES-60256,Kalimantan Timur,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,46.3,55.2,92.8,11.02,81.44,1918
+UCD-SES-60257,Jawa Timur,2025-Q4,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,38.1,68.8,40.3,11.68,77.72,2013
+UCD-SES-60258,Jawa Barat,2025-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,79.7,23.1,14.6,0.14,85.32,1995
+UCD-SES-60259,Sumatera Selatan,2025-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,86.0,29.9,31.1,2.8,89.3,1972
+UCD-SES-60260,Jawa Barat,2025-Q4,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,58.1,67.7,30.0,15.26,78.46,1971
+UCD-SES-60261,DKI Jakarta,2026-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,96.8,38.0,19.8,3.53,86.36,2373
+UCD-SES-60262,DI Yogyakarta,2025-Q1,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,43.9,73.7,45.9,24.89,69.88,1884
+UCD-SES-60263,Jawa Timur,2025-Q2,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,96.8,25.9,13.1,1.75,87.44,1902
+UCD-SES-60264,Jawa Barat,2025-Q1,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,76.7,33.7,28.3,0.16,90.16,2008
+UCD-SES-60265,Jawa Timur,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,86.2,33.4,10.0,2.59,84.68,1955
+UCD-SES-60266,Bengkulu,2025-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,95.6,32.4,16.0,0.77,87.16,1841
+UCD-SES-60267,Bengkulu,2026-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,96.8,22.5,16.8,3.33,89.11,1731
+UCD-SES-60268,Jawa Timur,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,44.2,60.5,36.7,15.84,77.06,1975
+UCD-SES-60269,Bengkulu,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,44.0,91.4,136.7,17.77,74.63,1776
+UCD-SES-60270,Sumatera Barat,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,55.9,77.6,38.7,15.6,75.86,1951
+UCD-SES-60271,Kalimantan Timur,2025-Q4,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,78.3,42.8,17.0,2.44,92.19,1941
+UCD-SES-60272,Sumatera Selatan,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,88.3,24.2,14.1,4.31,89.39,2011
+UCD-SES-60273,Sumatera Selatan,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,53.0,49.3,56.8,12.21,83.02,1933
+UCD-SES-60274,Sumatera Barat,2025-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,81.6,43.7,20.4,1.27,88.88,1955
+UCD-SES-60275,Kalimantan Timur,2025-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,78.4,37.2,27.3,3.44,87.25,1967
+UCD-SES-60276,Jawa Barat,2026-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,77.0,22.0,14.7,0.97,85.84,1949
+UCD-SES-60277,Kalimantan Timur,2025-Q2,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,37.6,77.2,39.8,13.05,80.08,1973
+UCD-SES-60278,Jawa Timur,2025-Q3,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,84.4,27.5,11.3,1.45,89.18,1998
+UCD-SES-60279,Jawa Timur,2026-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,54.4,77.9,47.7,13.27,83.25,1977
+UCD-SES-60280,Sumatera Selatan,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,59.7,68.5,53.8,6.81,84.5,1915
+UCD-SES-60281,Kalimantan Timur,2026-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,84.1,34.9,13.3,3.5,90.84,1905
+UCD-SES-60282,Kalimantan Timur,2026-Q1,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,47.7,85.9,30.7,8.3,74.67,1894
+UCD-SES-60283,DI Yogyakarta,2026-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,55.3,62.2,49.9,19.13,78.31,1954
+UCD-SES-60284,Jawa Barat,2026-Q3,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,45.8,54.9,44.1,21.68,82.29,1934
+UCD-SES-60285,DI Yogyakarta,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,87.2,37.0,22.7,0.91,83.13,1976
+UCD-SES-60286,Bengkulu,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,53.1,56.6,49.7,19.06,81.16,1810
+UCD-SES-60287,DI Yogyakarta,2025-Q4,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,63.1,63.6,37.5,24.63,82.68,1964
+UCD-SES-60288,Sumatera Selatan,2025-Q2,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,82.3,35.1,17.6,9.03,83.28,1863
+UCD-SES-60289,Bengkulu,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,88.5,30.8,19.9,0.31,84.35,1748
+UCD-SES-60290,Sumatera Selatan,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,72.6,29.7,29.4,6.79,85.38,1952
+UCD-SES-60291,DI Yogyakarta,2026-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,54.5,72.9,53.8,19.54,77.74,1952
+UCD-SES-60292,DKI Jakarta,2025-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,88.0,37.4,19.5,1.55,87.54,2393
+UCD-SES-60293,Kalimantan Timur,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,94.1,38.4,11.7,0.96,86.12,1923
+UCD-SES-60294,DKI Jakarta,2025-Q4,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,37.3,90.4,96.2,8.26,79.28,2419
+UCD-SES-60295,Sumatera Selatan,2025-Q4,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,88.7,28.7,21.2,7.88,81.82,1939
+UCD-SES-60296,Jawa Timur,2026-Q3,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,58.5,64.4,54.4,10.4,83.63,1912
+UCD-SES-60297,Bengkulu,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,65.2,74.9,36.4,15.7,85.19,1764
+UCD-SES-60298,Jawa Timur,2026-Q2,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,33.9,66.4,33.4,15.18,77.22,1936
+UCD-SES-60299,Sumatera Selatan,2026-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,90.4,31.8,10.5,6.44,84.58,1976
+UCD-SES-60300,Jawa Timur,2025-Q2,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,66.6,60.5,36.4,10.97,84.86,1971
+UCD-SES-60301,DI Yogyakarta,2026-Q3,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,52.7,65.8,59.4,18.57,85.93,1948
+UCD-SES-60302,Sumatera Barat,2026-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,69.2,71.1,58.6,21.02,78.34,1950
+UCD-SES-60303,Jawa Barat,2026-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,76.0,27.6,8.4,3.17,93.32,1991
+UCD-SES-60304,Sumatera Barat,2025-Q3,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,76.3,41.0,16.3,4.45,80.76,1981
+UCD-SES-60305,Bengkulu,2026-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,90.4,47.2,14.8,0.35,80.67,1815
+UCD-SES-60306,DKI Jakarta,2025-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,53.9,71.6,42.0,22.25,74.14,2410
+UCD-SES-60307,Sumatera Selatan,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,57.8,70.8,59.5,17.52,81.33,1893
+UCD-SES-60308,Sumatera Barat,2026-Q3,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,86.1,29.5,23.4,7.33,86.04,1878
+UCD-SES-60309,Bengkulu,2026-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,34.3,77.7,42.5,14.53,86.05,1783
+UCD-SES-60310,DI Yogyakarta,2026-Q1,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,82.4,34.2,17.1,2.13,92.13,1894
+UCD-SES-60311,Jawa Timur,2025-Q1,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,62.1,69.0,69.5,18.97,85.0,1969
+UCD-SES-60312,Sumatera Selatan,2026-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,74.4,33.6,14.1,2.6,81.18,1921
+UCD-SES-60313,DKI Jakarta,2026-Q2,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,52.5,79.5,27.8,19.21,83.88,2370
+UCD-SES-60314,Sumatera Selatan,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,46.2,60.7,38.0,16.46,83.74,1960
+UCD-SES-60315,Jawa Timur,2025-Q1,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,56.2,83.4,40.9,10.36,80.44,1973
+UCD-SES-60316,DKI Jakarta,2025-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,41.1,88.9,69.9,27.45,75.96,2417
+UCD-SES-60317,DI Yogyakarta,2025-Q1,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,52.9,64.9,41.1,20.03,79.2,1949
+UCD-SES-60318,Sumatera Selatan,2026-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,81.3,29.8,13.5,2.86,81.39,1995
+UCD-SES-60319,Kalimantan Timur,2026-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,57.6,69.9,54.3,22.87,83.69,1937
+UCD-SES-60320,Bengkulu,2026-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,90.0,18.6,18.8,2.86,91.26,1810
+UCD-SES-60321,Bengkulu,2025-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,79.9,41.6,15.3,5.01,85.01,1766
+UCD-SES-60322,Kalimantan Timur,2025-Q1,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,90.2,18.8,15.4,0.44,85.51,1971
+UCD-SES-60323,DI Yogyakarta,2026-Q3,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,58.9,70.3,19.4,21.13,77.83,1942
+UCD-SES-60324,Sumatera Selatan,2026-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,85.1,34.2,13.4,2.37,89.52,1949
+UCD-SES-60325,DKI Jakarta,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,95.0,29.8,20.0,3.67,81.28,2392
+UCD-SES-60326,DKI Jakarta,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,78.7,32.2,18.4,5.58,87.85,2448
+UCD-SES-60327,DI Yogyakarta,2025-Q1,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,38.9,70.5,55.0,22.73,79.61,1944
+UCD-SES-60328,Bengkulu,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,93.9,26.6,14.0,3.05,85.95,1709
+UCD-SES-60329,Bengkulu,2026-Q3,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,88.5,40.4,13.8,1.92,83.96,1742
+UCD-SES-60330,Kalimantan Timur,2026-Q3,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,84.5,31.2,15.6,0.13,83.97,1963
+UCD-SES-60331,Kalimantan Timur,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,57.1,86.2,45.2,12.78,71.82,1975
+UCD-SES-60332,Sumatera Barat,2025-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,58.7,77.3,35.0,16.57,83.71,1983
+UCD-SES-60333,Sumatera Selatan,2026-Q2,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,50.1,81.5,54.3,19.33,74.1,1940
+UCD-SES-60334,Sumatera Barat,2025-Q4,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,46.2,77.3,50.3,19.85,76.38,1968
+UCD-SES-60335,Bengkulu,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,86.5,33.3,15.3,1.64,90.14,1800
+UCD-SES-60336,Bengkulu,2025-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,72.6,71.1,40.3,12.03,77.43,1771
+UCD-SES-60337,DI Yogyakarta,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,49.0,57.0,52.2,12.89,78.38,1963
+UCD-SES-60338,Sumatera Barat,2025-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,42.8,66.6,53.1,16.22,84.21,1941
+UCD-SES-60339,Jawa Barat,2025-Q3,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,88.7,46.5,23.2,3.01,83.38,1950
+UCD-SES-60340,Jawa Timur,2026-Q2,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,30.1,64.9,83.6,17.3,79.86,1931
+UCD-SES-60341,Jawa Timur,2025-Q3,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,83.4,35.2,13.3,0.11,90.77,2023
+UCD-SES-60342,DI Yogyakarta,2026-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,49.4,63.2,30.8,19.57,80.35,1968
+UCD-SES-60343,Jawa Barat,2026-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,36.6,69.6,48.5,25.36,83.4,1942
+UCD-SES-60344,Jawa Timur,2025-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,57.3,85.7,61.0,28.09,82.93,1948
+UCD-SES-60345,DI Yogyakarta,2026-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,47.0,67.4,34.0,20.63,75.15,1945
+UCD-SES-60346,Sumatera Selatan,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,96.5,24.2,16.6,0.38,83.51,2017
+UCD-SES-60347,Sumatera Selatan,2026-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,86.6,36.9,13.4,4.02,81.19,1922
+UCD-SES-60348,Sumatera Selatan,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,69.9,41.9,21.8,2.26,86.82,1979
+UCD-SES-60349,Jawa Timur,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,50.9,63.3,38.4,10.55,84.66,1990
+UCD-SES-60350,Bengkulu,2026-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,89.3,12.0,15.9,5.67,85.92,1791
+UCD-SES-60351,Jawa Barat,2025-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,79.3,40.5,22.4,5.12,83.93,1939
+UCD-SES-60352,Kalimantan Timur,2026-Q3,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,85.4,18.2,22.3,0.59,92.07,1951
+UCD-SES-60353,Sumatera Barat,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,42.1,63.7,45.8,16.19,80.93,2002
+UCD-SES-60354,Kalimantan Timur,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,45.6,62.1,71.5,16.52,75.61,1967
+UCD-SES-60355,Sumatera Selatan,2025-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,40.6,71.2,27.3,17.95,73.51,1966
+UCD-SES-60356,Jawa Barat,2025-Q1,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,91.2,29.1,17.4,5.72,90.11,1946
+UCD-SES-60357,DI Yogyakarta,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,82.1,18.7,13.5,0.91,85.79,1987
+UCD-SES-60358,Jawa Timur,2026-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,84.1,40.7,14.9,0.34,84.61,2030
+UCD-SES-60359,Jawa Barat,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,51.0,74.5,54.2,17.95,77.4,1943
+UCD-SES-60360,DI Yogyakarta,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,48.2,64.7,66.4,18.74,83.28,1987
+UCD-SES-60361,Kalimantan Timur,2025-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,82.8,32.6,21.2,0.48,86.61,1953
+UCD-SES-60362,Kalimantan Timur,2026-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,76.7,25.0,17.4,2.94,85.8,1960
+UCD-SES-60363,DI Yogyakarta,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,61.0,69.3,62.9,13.06,83.67,1965
+UCD-SES-60364,DKI Jakarta,2025-Q4,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,84.3,38.1,12.8,7.45,89.02,2422
+UCD-SES-60365,Sumatera Selatan,2026-Q1,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,59.5,75.8,28.1,22.83,75.74,1988
+UCD-SES-60366,Jawa Timur,2025-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,46.2,72.1,37.0,6.75,81.19,1976
+UCD-SES-60367,Jawa Timur,2025-Q2,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,52.8,67.2,45.9,23.09,82.77,1960
+UCD-SES-60368,DKI Jakarta,2026-Q3,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,82.4,33.1,24.4,3.09,89.74,2340
+UCD-SES-60369,DI Yogyakarta,2025-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,85.8,34.5,13.8,2.45,86.42,1902
+UCD-SES-60370,Kalimantan Timur,2025-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,43.5,71.0,45.4,25.49,74.72,1949
+UCD-SES-60371,Sumatera Barat,2026-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,51.8,67.2,63.3,16.57,84.98,1994
+UCD-SES-60372,Sumatera Selatan,2025-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,82.1,23.6,13.5,1.56,91.59,1948
+UCD-SES-60373,Sumatera Barat,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,75.4,36.4,17.6,2.29,86.15,1985
+UCD-SES-60374,DI Yogyakarta,2025-Q4,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,89.3,36.4,18.3,1.48,78.13,1930
+UCD-SES-60375,Jawa Barat,2025-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,86.2,45.4,18.6,1.32,83.52,1895
+UCD-SES-60376,Jawa Barat,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,78.5,33.1,24.4,1.81,88.86,1925
+UCD-SES-60377,DKI Jakarta,2026-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,75.3,22.6,16.0,0.42,92.29,2372
+UCD-SES-60378,Bengkulu,2026-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,58.8,83.0,55.2,17.59,80.49,1803
+UCD-SES-60379,DI Yogyakarta,2026-Q2,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,55.9,54.9,82.7,16.41,84.6,2002
+UCD-SES-60380,Kalimantan Timur,2025-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,77.8,35.5,14.1,3.56,88.33,1961
+UCD-SES-60381,Bengkulu,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,81.4,39.7,15.0,0.55,81.29,1744
+UCD-SES-60382,Jawa Timur,2025-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,75.0,44.8,75.4,8.15,82.76,1924
+UCD-SES-60383,Bengkulu,2026-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,48.4,84.3,59.7,27.74,73.34,1740
+UCD-SES-60384,DI Yogyakarta,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,54.6,70.0,37.7,26.14,81.2,1932
+UCD-SES-60385,Sumatera Selatan,2026-Q2,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,84.0,28.9,17.6,2.1,88.08,1913
+UCD-SES-60386,Jawa Timur,2026-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,79.9,40.1,17.8,0.28,82.62,1938
+UCD-SES-60387,Bengkulu,2025-Q4,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,47.6,72.8,28.9,19.58,83.41,1716
+UCD-SES-60388,DKI Jakarta,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,83.8,18.7,17.0,9.91,90.43,2395
+UCD-SES-60389,DKI Jakarta,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,98.3,29.4,14.3,2.53,80.79,2400
+UCD-SES-60390,Sumatera Selatan,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,76.6,75.4,33.6,16.85,75.35,1952
+UCD-SES-60391,Sumatera Selatan,2026-Q3,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,87.1,40.7,14.4,2.68,85.65,1986
+UCD-SES-60392,DKI Jakarta,2025-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,70.9,28.0,15.2,3.54,85.67,2415
+UCD-SES-60393,Jawa Timur,2025-Q2,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,79.0,43.4,17.4,0.62,81.57,1922
+UCD-SES-60394,Kalimantan Timur,2025-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,83.8,34.2,17.2,0.46,89.55,1982
+UCD-SES-60395,Kalimantan Timur,2026-Q2,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,57.2,75.0,53.8,19.45,77.34,1953
+UCD-SES-60396,Sumatera Selatan,2026-Q2,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,71.4,38.8,23.7,0.66,86.85,1958
+UCD-SES-60397,Sumatera Selatan,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,84.5,39.5,12.7,0.64,88.15,1940
+UCD-SES-60398,Kalimantan Timur,2025-Q2,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,83.3,22.1,24.6,3.63,84.48,1875
+UCD-SES-60399,Bengkulu,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,82.5,27.4,19.0,0.04,83.72,1794
+UCD-SES-60400,Jawa Timur,2025-Q2,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,41.7,74.1,35.8,9.64,75.22,1918
+UCD-SES-60401,Jawa Timur,2025-Q4,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,88.7,43.5,25.4,2.61,85.77,2001
+UCD-SES-60402,Sumatera Selatan,2025-Q2,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,45.5,68.0,117.7,14.78,77.72,1955
+UCD-SES-60403,Sumatera Barat,2026-Q3,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,47.0,66.6,71.0,27.7,80.41,1996
+UCD-SES-60404,Sumatera Selatan,2025-Q4,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,83.1,39.8,22.1,2.06,89.23,1952
+UCD-SES-60405,Bengkulu,2026-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,66.5,92.6,77.1,12.06,81.41,1710
+UCD-SES-60406,Sumatera Selatan,2026-Q1,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,85.3,26.9,19.8,5.07,88.6,1942
+UCD-SES-60407,Bengkulu,2026-Q2,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,88.6,20.5,21.4,4.19,87.96,1755
+UCD-SES-60408,Sumatera Selatan,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,99.0,34.3,30.4,0.17,79.75,1928
+UCD-SES-60409,DKI Jakarta,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,86.4,33.7,22.9,0.96,84.57,2433
+UCD-SES-60410,DKI Jakarta,2025-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,93.4,42.1,25.7,0.21,86.24,2461
+UCD-SES-60411,Jawa Barat,2026-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,80.8,25.5,16.4,9.56,84.14,1985
+UCD-SES-60412,Jawa Barat,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,85.7,26.6,11.8,3.42,88.18,1922
+UCD-SES-60413,Jawa Barat,2026-Q2,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,87.1,32.0,22.4,1.69,85.15,1961
+UCD-SES-60414,Sumatera Selatan,2026-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,58.5,50.4,34.9,11.58,79.85,2017
+UCD-SES-60415,Jawa Barat,2025-Q4,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,55.7,72.0,36.7,13.65,80.97,1951
+UCD-SES-60416,Jawa Barat,2026-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,95.1,28.8,14.5,4.46,80.06,1897
+UCD-SES-60417,Sumatera Selatan,2026-Q1,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,84.8,40.0,16.2,0.02,76.5,1884
+UCD-SES-60418,DKI Jakarta,2025-Q4,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,86.1,34.5,14.5,0.05,83.54,2374
+UCD-SES-60419,Jawa Timur,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,62.1,69.8,33.7,17.06,79.1,1978
+UCD-SES-60420,Kalimantan Timur,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,47.9,54.8,42.7,18.43,84.82,1942
+UCD-SES-60421,DI Yogyakarta,2025-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,81.1,25.1,13.1,0.86,83.93,1988
+UCD-SES-60422,Kalimantan Timur,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,90.0,21.0,14.7,1.48,89.55,2018
+UCD-SES-60423,Sumatera Selatan,2026-Q2,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,49.9,61.7,49.9,13.92,80.4,1975
+UCD-SES-60424,Sumatera Selatan,2025-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,69.8,76.9,40.7,14.5,73.39,1969
+UCD-SES-60425,Jawa Timur,2025-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,52.0,48.9,63.9,15.84,84.42,1904
+UCD-SES-60426,Kalimantan Timur,2026-Q1,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,50.6,72.0,59.6,5.04,76.08,1961
+UCD-SES-60427,Jawa Barat,2025-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,80.6,38.9,19.1,0.36,86.98,1960
+UCD-SES-60428,Sumatera Selatan,2025-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,57.5,76.7,81.2,22.42,70.4,1964
+UCD-SES-60429,DKI Jakarta,2026-Q3,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,57.8,52.0,58.0,22.8,82.27,2419
+UCD-SES-60430,DI Yogyakarta,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,76.5,41.4,11.8,0.72,84.58,1992
+UCD-SES-60431,DI Yogyakarta,2026-Q1,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,52.2,70.3,108.6,7.4,76.74,1921
+UCD-SES-60432,Jawa Barat,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,74.7,28.4,18.6,1.79,86.39,1995
+UCD-SES-60433,Sumatera Barat,2026-Q3,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,79.8,36.8,20.7,0.14,83.55,1974
+UCD-SES-60434,Kalimantan Timur,2025-Q2,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,80.8,30.8,14.6,7.18,85.75,1937
+UCD-SES-60435,DI Yogyakarta,2025-Q2,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,95.9,38.8,12.9,2.28,82.53,1866
+UCD-SES-60436,Jawa Barat,2025-Q1,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,89.5,43.1,14.5,2.17,88.07,1920
+UCD-SES-60437,Bengkulu,2025-Q1,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,75.9,39.0,12.4,2.26,89.81,1800
+UCD-SES-60438,Jawa Timur,2025-Q1,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,80.8,29.4,25.3,4.78,85.47,2003
+UCD-SES-60439,DI Yogyakarta,2026-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,77.5,36.9,19.1,1.01,87.84,1925
+UCD-SES-60440,Jawa Barat,2026-Q2,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,82.7,28.2,25.5,3.41,90.6,1912
+UCD-SES-60441,Jawa Barat,2026-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,88.9,29.4,17.3,6.54,90.13,1917
+UCD-SES-60442,DKI Jakarta,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,31.8,59.9,50.1,18.26,85.35,2398
+UCD-SES-60443,Bengkulu,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,78.6,25.4,16.4,0.23,87.98,1715
+UCD-SES-60444,Bengkulu,2026-Q3,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,44.6,60.4,51.6,22.59,82.89,1764
+UCD-SES-60445,Kalimantan Timur,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,38.9,84.0,38.2,18.03,82.66,1982
+UCD-SES-60446,Bengkulu,2026-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,43.7,78.2,68.5,21.17,76.9,1724
+UCD-SES-60447,Bengkulu,2025-Q4,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,82.3,26.7,20.5,2.8,88.47,1774
+UCD-SES-60448,Bengkulu,2025-Q4,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,75.4,32.7,18.6,0.81,77.84,1848
+UCD-SES-60449,DI Yogyakarta,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,55.6,60.7,79.7,29.11,87.41,1910
+UCD-SES-60450,Sumatera Barat,2026-Q2,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,46.3,73.8,51.8,11.0,80.88,1971
+UCD-SES-60451,DI Yogyakarta,2026-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,67.0,58.0,47.4,10.73,77.25,1964
+UCD-SES-60452,Bengkulu,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,55.2,65.0,111.9,19.1,86.13,1806
+UCD-SES-60453,Jawa Timur,2026-Q2,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,40.5,58.0,32.4,19.75,76.77,1950
+UCD-SES-60454,Sumatera Barat,2025-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,88.8,22.0,20.9,8.67,86.16,1902
+UCD-SES-60455,Jawa Timur,2026-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,88.9,34.2,25.4,1.11,85.19,1994
+UCD-SES-60456,Jawa Barat,2025-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,39.5,63.6,69.5,9.82,77.05,1910
+UCD-SES-60457,Jawa Barat,2026-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,81.0,30.0,15.0,7.52,85.07,1999
+UCD-SES-60458,Jawa Timur,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,55.4,64.2,81.3,16.05,86.74,1955
+UCD-SES-60459,Jawa Barat,2025-Q4,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,86.0,24.3,13.1,1.93,86.91,1977
+UCD-SES-60460,Jawa Barat,2025-Q2,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,91.5,29.7,19.1,6.62,81.32,1954
+UCD-SES-60461,Jawa Timur,2025-Q4,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,42.3,59.3,44.5,21.46,81.16,1915
+UCD-SES-60462,DKI Jakarta,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,78.9,32.9,18.7,4.51,85.01,2346
+UCD-SES-60463,Jawa Barat,2026-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,84.6,38.9,13.3,5.71,83.82,1987
+UCD-SES-60464,DKI Jakarta,2025-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,52.1,62.6,36.3,18.3,84.27,2426
+UCD-SES-60465,Jawa Timur,2025-Q2,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,55.1,51.8,39.8,23.69,85.36,1995
+UCD-SES-60466,DI Yogyakarta,2026-Q2,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,60.8,81.3,27.3,15.9,79.21,1921
+UCD-SES-60467,Jawa Barat,2026-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,49.9,82.5,58.2,14.58,78.05,2015
+UCD-SES-60468,DKI Jakarta,2025-Q4,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,55.3,64.3,33.0,2.0,76.29,2426
+UCD-SES-60469,Jawa Barat,2025-Q2,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,55.8,78.2,31.6,4.01,78.87,1923
+UCD-SES-60470,Jawa Timur,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,83.6,34.2,16.8,5.13,79.67,1962
+UCD-SES-60471,Sumatera Barat,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,40.1,69.3,51.0,20.65,76.42,1934
+UCD-SES-60472,Sumatera Barat,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,79.9,33.7,35.9,1.19,84.95,1896
+UCD-SES-60473,Bengkulu,2025-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,79.2,31.7,15.5,2.31,85.85,1775
+UCD-SES-60474,Jawa Barat,2026-Q1,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,31.8,71.2,50.5,22.34,78.42,1929
+UCD-SES-60475,DKI Jakarta,2026-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,83.4,25.8,18.0,3.31,83.12,2412
+UCD-SES-60476,DKI Jakarta,2025-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,76.6,43.2,24.2,0.07,78.71,2319
+UCD-SES-60477,Jawa Barat,2025-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,81.4,40.7,13.6,3.53,86.36,1958
+UCD-SES-60478,Kalimantan Timur,2025-Q2,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,67.4,54.2,35.1,24.13,79.81,1943
+UCD-SES-60479,Sumatera Selatan,2026-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,51.8,59.4,58.5,17.3,83.66,1927
+UCD-SES-60480,DKI Jakarta,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,76.8,36.6,12.4,2.74,82.77,2422
+UCD-SES-60481,DKI Jakarta,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,46.9,60.5,44.7,20.23,79.86,2376
+UCD-SES-60482,Kalimantan Timur,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,53.6,80.2,42.2,9.46,77.86,1993
+UCD-SES-60483,Sumatera Selatan,2025-Q4,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,52.1,53.6,42.8,10.63,79.83,1998
+UCD-SES-60484,Sumatera Barat,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,87.5,28.6,14.5,1.6,82.42,1932
+UCD-SES-60485,Jawa Barat,2026-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,82.2,40.5,16.8,1.82,82.87,2005
+UCD-SES-60486,Sumatera Barat,2025-Q4,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,79.2,33.7,15.1,3.22,83.48,1980
+UCD-SES-60487,Jawa Timur,2026-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,87.2,31.7,18.9,0.4,87.98,1919
+UCD-SES-60488,Bengkulu,2026-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,43.2,76.5,38.6,20.79,77.23,1790
+UCD-SES-60489,Sumatera Selatan,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,90.9,37.9,12.5,2.98,76.23,1948
+UCD-SES-60490,Sumatera Selatan,2025-Q2,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,57.0,86.8,56.6,20.97,78.47,1981
+UCD-SES-60491,DI Yogyakarta,2026-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,39.5,70.6,68.7,17.15,79.89,1926
+UCD-SES-60492,Sumatera Barat,2025-Q4,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,85.7,32.8,20.3,1.49,88.38,1949
+UCD-SES-60493,DI Yogyakarta,2026-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,56.2,77.0,32.9,9.62,77.03,1900
+UCD-SES-60494,Bengkulu,2025-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,58.9,67.1,72.8,15.77,77.48,1715
+UCD-SES-60495,DI Yogyakarta,2025-Q3,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,64.1,73.0,34.5,17.65,78.73,1964
+UCD-SES-60496,Jawa Timur,2025-Q1,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,41.0,57.9,60.7,16.64,80.4,2001
+UCD-SES-60497,Kalimantan Timur,2026-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,78.5,31.6,14.0,3.19,85.02,1944
+UCD-SES-60498,Sumatera Selatan,2025-Q4,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,83.5,36.6,22.5,5.22,90.48,1891
+UCD-SES-60499,Bengkulu,2025-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,53.7,51.3,47.8,11.58,88.35,1766
+UCD-SES-60500,Kalimantan Timur,2026-Q3,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,58.3,76.0,62.6,6.16,80.26,1890
+UCD-SES-60501,Sumatera Barat,2025-Q4,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,55.8,82.7,33.6,24.38,75.17,1891
+UCD-SES-60502,Jawa Timur,2025-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,86.8,39.2,20.7,2.97,86.64,2008
+UCD-SES-60503,DI Yogyakarta,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,88.5,21.7,18.5,1.91,86.13,1993
+UCD-SES-60504,DI Yogyakarta,2025-Q4,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,92.0,27.8,22.5,1.78,88.48,1956
+UCD-SES-60505,Sumatera Selatan,2025-Q4,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,63.0,61.0,78.3,20.9,84.54,1962
+UCD-SES-60506,Sumatera Barat,2025-Q4,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,73.5,28.0,17.7,0.07,90.06,1950
+UCD-SES-60507,Jawa Timur,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,83.2,34.0,22.7,8.23,83.19,1933
+UCD-SES-60508,DKI Jakarta,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,61.9,61.7,48.6,12.0,79.08,2422
+UCD-SES-60509,DKI Jakarta,2026-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,84.0,20.7,14.8,0.23,86.23,2342
+UCD-SES-60510,Kalimantan Timur,2026-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,92.1,38.6,16.5,0.44,79.1,1915
+UCD-SES-60511,Jawa Barat,2025-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,76.6,35.4,21.7,0.95,85.82,2003
+UCD-SES-60512,Sumatera Selatan,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,92.8,42.7,17.7,1.1,82.53,1949
+UCD-SES-60513,DI Yogyakarta,2025-Q4,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,73.2,25.3,12.5,3.83,84.3,1975
+UCD-SES-60514,Jawa Timur,2026-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,86.9,21.7,15.7,1.61,89.25,1951
+UCD-SES-60515,Jawa Timur,2026-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,44.3,69.2,55.3,12.18,84.31,1926
+UCD-SES-60516,DI Yogyakarta,2026-Q1,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,60.4,68.9,57.1,16.17,80.62,1992
+UCD-SES-60517,Kalimantan Timur,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,74.2,28.1,19.1,1.14,84.43,1937
+UCD-SES-60518,Jawa Barat,2025-Q4,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,58.6,75.7,40.8,10.25,77.44,1887
+UCD-SES-60519,DKI Jakarta,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,67.9,63.5,49.8,18.37,83.92,2378
+UCD-SES-60520,Jawa Timur,2026-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,47.0,76.4,71.9,15.33,78.19,1991
+UCD-SES-60521,Kalimantan Timur,2025-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,83.2,36.4,19.9,1.35,88.99,1948
+UCD-SES-60522,Bengkulu,2026-Q3,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,38.8,64.5,54.7,22.24,76.66,1752
+UCD-SES-60523,Sumatera Barat,2025-Q4,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,80.7,36.5,26.1,4.41,81.28,1933
+UCD-SES-60524,Jawa Barat,2026-Q2,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,82.5,30.6,18.8,2.64,89.94,1969
+UCD-SES-60525,Kalimantan Timur,2025-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,42.6,63.9,42.3,3.49,84.13,1941
+UCD-SES-60526,Jawa Timur,2025-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,47.3,70.5,42.8,18.38,80.35,1936
+UCD-SES-60527,Bengkulu,2025-Q4,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,43.0,69.1,51.9,17.88,83.15,1729
+UCD-SES-60528,Sumatera Selatan,2026-Q2,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,50.1,79.8,101.5,14.91,79.83,1937
+UCD-SES-60529,Jawa Barat,2026-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,83.6,28.3,26.2,0.34,87.19,1948
+UCD-SES-60530,DI Yogyakarta,2025-Q4,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,59.3,66.3,64.5,15.57,73.53,1904
+UCD-SES-60531,Kalimantan Timur,2026-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,84.6,49.9,14.1,2.2,82.15,1863
+UCD-SES-60532,DKI Jakarta,2025-Q2,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,60.9,77.4,36.5,3.53,73.39,2416
+UCD-SES-60533,Jawa Timur,2026-Q2,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,79.3,44.1,8.7,1.27,87.13,1971
+UCD-SES-60534,DI Yogyakarta,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,35.1,76.6,56.0,12.89,79.08,1951
+UCD-SES-60535,DKI Jakarta,2025-Q3,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,84.6,25.9,19.5,5.17,79.92,2386
+UCD-SES-60536,DKI Jakarta,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,38.7,73.0,41.0,21.92,85.46,2444
+UCD-SES-60537,DI Yogyakarta,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,59.0,69.7,49.6,17.39,83.21,1964
+UCD-SES-60538,Kalimantan Timur,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,46.9,79.3,44.9,8.21,78.58,1919
+UCD-SES-60539,Kalimantan Timur,2025-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,51.6,68.8,56.0,10.2,85.85,1900
+UCD-SES-60540,Bengkulu,2025-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,48.1,74.7,70.2,21.97,76.64,1809
+UCD-SES-60541,Jawa Barat,2026-Q1,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,82.9,30.8,22.6,8.21,86.54,1968
+UCD-SES-60542,Sumatera Barat,2025-Q4,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,88.1,37.8,18.1,5.46,88.2,1978
+UCD-SES-60543,Sumatera Selatan,2025-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,78.7,19.9,16.4,0.34,82.62,1947
+UCD-SES-60544,Jawa Barat,2026-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,35.2,77.6,46.4,20.79,79.83,1928
+UCD-SES-60545,Kalimantan Timur,2026-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,80.3,19.6,27.6,6.84,89.44,1912
+UCD-SES-60546,Jawa Timur,2025-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,38.2,47.1,77.5,16.2,77.67,1883
+UCD-SES-60547,Jawa Barat,2026-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,53.3,69.5,53.2,23.6,82.84,1907
+UCD-SES-60548,Jawa Barat,2025-Q2,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,42.8,87.3,39.5,21.23,73.45,1898
+UCD-SES-60549,DI Yogyakarta,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,58.0,58.6,49.1,13.38,84.26,1985
+UCD-SES-60550,Kalimantan Timur,2026-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,47.8,57.3,41.9,21.69,82.4,1895
+UCD-SES-60551,Sumatera Selatan,2026-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,79.9,31.1,13.7,2.06,81.18,2039
+UCD-SES-60552,Bengkulu,2026-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,90.2,18.3,19.4,0.94,83.16,1717
+UCD-SES-60553,DKI Jakarta,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,33.0,59.6,54.6,17.35,77.41,2463
+UCD-SES-60554,DI Yogyakarta,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,67.1,69.4,34.3,13.05,81.15,1933
+UCD-SES-60555,Sumatera Selatan,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,85.4,32.7,20.2,0.37,88.43,1926
+UCD-SES-60556,Sumatera Barat,2025-Q4,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,53.1,74.4,34.6,18.29,79.61,1948
+UCD-SES-60557,Kalimantan Timur,2026-Q2,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,78.3,21.3,24.5,0.61,86.92,1942
+UCD-SES-60558,DI Yogyakarta,2026-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,76.4,29.4,12.7,1.5,82.92,1988
+UCD-SES-60559,Jawa Barat,2025-Q1,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,47.3,64.1,49.2,20.63,81.64,1962
+UCD-SES-60560,DKI Jakarta,2025-Q4,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,25.0,64.8,62.8,20.66,79.17,2423
+UCD-SES-60561,Jawa Barat,2025-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,91.3,45.3,36.2,3.43,82.14,1974
+UCD-SES-60562,Kalimantan Timur,2025-Q4,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,52.2,77.6,45.8,11.14,80.86,1978
+UCD-SES-60563,Jawa Barat,2026-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,90.2,43.7,14.3,4.77,86.25,1907
+UCD-SES-60564,DI Yogyakarta,2026-Q2,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,51.0,69.8,49.4,22.48,80.79,1948
+UCD-SES-60565,Sumatera Barat,2025-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,88.1,29.2,16.7,1.08,88.71,1911
+UCD-SES-60566,Sumatera Selatan,2026-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,83.0,34.7,14.1,0.75,82.05,1957
+UCD-SES-60567,Kalimantan Timur,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,55.0,58.4,52.9,14.02,82.01,1981
+UCD-SES-60568,DI Yogyakarta,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,98.2,39.5,14.0,6.43,84.82,1980
+UCD-SES-60569,Jawa Timur,2025-Q4,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,74.2,72.7,46.5,16.36,83.93,1930
+UCD-SES-60570,Jawa Timur,2026-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,49.6,63.0,43.9,17.39,74.99,1916
+UCD-SES-60571,Kalimantan Timur,2025-Q4,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,83.7,28.3,15.2,1.37,85.74,1908
+UCD-SES-60572,Sumatera Selatan,2025-Q4,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,50.9,44.1,99.4,20.03,80.97,1956
+UCD-SES-60573,Bengkulu,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,53.8,74.1,64.0,12.67,77.65,1803
+UCD-SES-60574,Kalimantan Timur,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,82.1,24.7,15.8,4.95,85.02,1937
+UCD-SES-60575,Bengkulu,2025-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,78.7,40.8,17.7,0.17,87.41,1839
+UCD-SES-60576,Kalimantan Timur,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,81.0,26.9,20.4,8.41,88.83,1910
+UCD-SES-60577,DI Yogyakarta,2026-Q2,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,48.1,74.7,107.1,11.53,72.09,1979
+UCD-SES-60578,DKI Jakarta,2026-Q2,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,47.7,76.3,45.9,21.1,77.62,2352
+UCD-SES-60579,Bengkulu,2025-Q1,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,37.8,76.3,39.4,19.55,77.33,1790
+UCD-SES-60580,DI Yogyakarta,2026-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,87.2,38.5,15.4,3.55,88.96,1956
+UCD-SES-60581,Jawa Barat,2025-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,33.0,61.6,39.5,11.37,80.5,1892
+UCD-SES-60582,Bengkulu,2026-Q1,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,83.0,32.6,17.0,1.59,84.19,1755
+UCD-SES-60583,DI Yogyakarta,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,90.7,27.7,12.8,0.04,89.44,1938
+UCD-SES-60584,Sumatera Selatan,2025-Q4,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,81.5,45.2,21.8,1.06,84.94,2045
+UCD-SES-60585,Jawa Timur,2025-Q1,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,82.7,35.8,16.5,0.38,81.98,1998
+UCD-SES-60586,Jawa Timur,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,99.0,40.2,13.2,2.47,88.41,1902
+UCD-SES-60587,Jawa Barat,2025-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,85.9,22.2,16.9,0.5,86.66,1939
+UCD-SES-60588,Sumatera Selatan,2025-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,77.6,64.0,64.8,12.15,80.13,1900
+UCD-SES-60589,Bengkulu,2025-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,91.2,28.7,19.5,2.39,85.67,1818
+UCD-SES-60590,Jawa Barat,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,90.9,34.5,18.9,2.14,88.18,1939
+UCD-SES-60591,Sumatera Selatan,2026-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,78.7,24.6,24.9,3.71,88.08,1916
+UCD-SES-60592,Sumatera Selatan,2025-Q4,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,67.3,73.6,27.1,16.01,75.36,1948
+UCD-SES-60593,Jawa Barat,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,94.2,23.8,14.4,0.35,87.72,1975
+UCD-SES-60594,Sumatera Selatan,2025-Q1,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,57.1,61.8,36.9,21.89,80.2,1931
+UCD-SES-60595,Kalimantan Timur,2025-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,60.0,63.2,101.3,18.99,84.04,1912
+UCD-SES-60596,Jawa Timur,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,83.0,23.7,19.3,0.51,93.14,1983
+UCD-SES-60597,Sumatera Barat,2025-Q4,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,81.4,27.0,27.0,16.73,84.26,1925
+UCD-SES-60598,Jawa Timur,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,58.6,71.9,47.0,20.03,79.43,1950
+UCD-SES-60599,Kalimantan Timur,2026-Q2,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,40.5,58.7,37.9,16.89,85.87,1901
+UCD-SES-60600,Sumatera Barat,2025-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,99.0,38.3,11.9,6.02,85.46,2004
+UCD-SES-60601,Kalimantan Timur,2026-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,84.9,28.0,18.4,1.57,86.31,1900
+UCD-SES-60602,Sumatera Selatan,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,83.9,27.6,13.2,0.34,86.89,1975
+UCD-SES-60603,Kalimantan Timur,2025-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,77.0,24.7,12.2,2.87,87.27,1986
+UCD-SES-60604,DKI Jakarta,2026-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,72.8,31.0,13.9,2.03,81.72,2316
+UCD-SES-60605,Kalimantan Timur,2026-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,68.9,44.0,17.5,10.84,87.39,1922
+UCD-SES-60606,DI Yogyakarta,2026-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,94.4,32.0,14.4,2.07,85.2,1987
+UCD-SES-60607,Sumatera Selatan,2025-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,88.2,33.0,13.7,8.72,81.73,2072
+UCD-SES-60608,Jawa Timur,2025-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,83.9,29.1,23.6,0.26,85.77,1977
+UCD-SES-60609,Sumatera Barat,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,83.6,23.9,16.4,3.93,90.99,1974
+UCD-SES-60610,DI Yogyakarta,2025-Q4,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,38.2,58.2,46.8,5.67,83.99,1937
+UCD-SES-60611,Kalimantan Timur,2026-Q2,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,82.6,22.2,19.7,0.35,83.32,1972
+UCD-SES-60612,DKI Jakarta,2025-Q1,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,81.7,35.6,20.4,4.3,84.91,2340
+UCD-SES-60613,Sumatera Selatan,2026-Q2,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,76.9,36.3,15.8,1.83,86.6,1981
+UCD-SES-60614,Sumatera Barat,2026-Q2,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,83.4,34.4,20.2,1.47,84.94,1989
+UCD-SES-60615,Jawa Timur,2026-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,88.5,28.5,13.4,4.22,79.13,1889
+UCD-SES-60616,Sumatera Selatan,2025-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,81.9,42.6,16.7,8.18,85.89,1974
+UCD-SES-60617,Sumatera Selatan,2025-Q2,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,60.2,61.7,78.7,18.97,80.05,1999
+UCD-SES-60618,Jawa Timur,2025-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,96.2,41.7,15.3,0.61,88.5,1935
+UCD-SES-60619,Bengkulu,2025-Q4,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,87.8,24.8,29.0,6.87,89.18,1759
+UCD-SES-60620,Sumatera Selatan,2026-Q2,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,54.3,68.8,65.4,18.96,83.35,1961
+UCD-SES-60621,DI Yogyakarta,2026-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,60.0,80.3,54.5,13.53,73.22,1909
+UCD-SES-60622,DI Yogyakarta,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,37.4,60.4,34.0,16.89,88.21,1994
+UCD-SES-60623,Bengkulu,2025-Q2,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,59.6,70.5,67.3,18.7,77.41,1751
+UCD-SES-60624,Jawa Barat,2025-Q4,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,78.7,44.8,11.9,2.85,90.04,1906
+UCD-SES-60625,Kalimantan Timur,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,94.5,22.5,14.1,3.17,90.65,1911
+UCD-SES-60626,Kalimantan Timur,2025-Q2,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,37.2,55.8,77.2,20.07,84.98,1898
+UCD-SES-60627,Bengkulu,2025-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,82.4,25.9,19.7,3.27,87.83,1721
+UCD-SES-60628,Sumatera Barat,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,56.6,71.9,53.3,18.82,76.0,1954
+UCD-SES-60629,Jawa Barat,2025-Q4,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,99.0,41.9,11.7,1.73,89.88,1983
+UCD-SES-60630,Jawa Timur,2025-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,57.0,67.8,78.2,20.08,85.21,1932
+UCD-SES-60631,Jawa Timur,2026-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,85.2,43.5,14.9,4.28,90.24,1927
+UCD-SES-60632,Jawa Timur,2025-Q4,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,58.7,79.9,33.3,26.67,75.7,1912
+UCD-SES-60633,Sumatera Selatan,2026-Q3,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,29.4,49.4,32.7,3.86,87.73,1927
+UCD-SES-60634,Sumatera Barat,2026-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,91.5,32.0,12.3,0.3,84.28,1943
+UCD-SES-60635,Kalimantan Timur,2025-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,47.5,79.5,65.7,11.53,79.66,1945
+UCD-SES-60636,Jawa Barat,2026-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,88.1,31.0,18.6,0.06,83.5,1923
+UCD-SES-60637,Jawa Barat,2026-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,47.3,62.2,85.8,16.75,80.64,1955
+UCD-SES-60638,Kalimantan Timur,2026-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,78.0,19.0,18.5,5.13,87.72,1930
+UCD-SES-60639,Bengkulu,2025-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,74.1,29.1,9.4,6.16,90.71,1767
+UCD-SES-60640,DI Yogyakarta,2025-Q1,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,53.8,85.8,71.0,13.98,75.27,1960
+UCD-SES-60641,Kalimantan Timur,2026-Q3,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,43.5,73.3,44.2,15.62,81.8,2039
+UCD-SES-60642,Sumatera Selatan,2025-Q1,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,87.2,28.8,21.5,0.61,82.74,1979
+UCD-SES-60643,DI Yogyakarta,2025-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,90.2,33.3,27.6,0.84,84.64,1933
+UCD-SES-60644,Kalimantan Timur,2025-Q3,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,85.0,39.5,21.4,2.21,86.96,1985
+UCD-SES-60645,Jawa Barat,2025-Q1,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,52.4,64.6,73.0,19.18,78.43,1916
+UCD-SES-60646,DKI Jakarta,2025-Q4,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,88.1,37.3,24.2,7.89,82.66,2381
+UCD-SES-60647,Kalimantan Timur,2026-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,67.0,73.5,61.5,13.16,79.2,1955
+UCD-SES-60648,Sumatera Selatan,2026-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,79.8,36.3,23.4,3.97,87.64,1918
+UCD-SES-60649,DKI Jakarta,2025-Q3,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,40.2,72.9,35.6,8.9,73.82,2456
+UCD-SES-60650,Jawa Barat,2025-Q1,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,40.5,78.2,40.0,17.41,74.7,1982
+UCD-SES-60651,Sumatera Selatan,2026-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,38.3,67.1,70.5,12.79,82.58,1952
+UCD-SES-60652,Jawa Timur,2025-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,77.2,36.4,29.5,0.22,85.82,1949
+UCD-SES-60653,Bengkulu,2025-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,59.6,68.5,49.0,20.9,81.56,1795
+UCD-SES-60654,Jawa Timur,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,76.9,29.0,22.7,1.37,86.46,1959
+UCD-SES-60655,Sumatera Selatan,2025-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,85.3,32.7,15.6,5.44,85.49,1951
+UCD-SES-60656,Jawa Barat,2025-Q1,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,46.0,66.7,66.1,19.93,85.73,2008
+UCD-SES-60657,DI Yogyakarta,2026-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,52.1,62.8,69.4,25.35,76.83,1883
+UCD-SES-60658,DKI Jakarta,2026-Q1,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,32.5,65.5,42.8,18.28,83.73,2399
+UCD-SES-60659,DKI Jakarta,2026-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,72.8,42.2,24.5,0.32,81.84,2394
+UCD-SES-60660,Sumatera Selatan,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,57.8,57.6,28.9,25.18,73.94,1946
+UCD-SES-60661,Jawa Barat,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,93.5,25.0,22.8,1.31,91.48,1953
+UCD-SES-60662,Jawa Barat,2026-Q3,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,93.4,29.5,13.5,0.41,83.63,1897
+UCD-SES-60663,DI Yogyakarta,2026-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,60.0,85.8,59.7,13.78,75.21,1960
+UCD-SES-60664,Sumatera Selatan,2026-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,39.5,58.8,49.6,25.58,83.88,1991
+UCD-SES-60665,Sumatera Barat,2025-Q4,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,47.8,68.9,63.3,18.09,78.9,1929
+UCD-SES-60666,Jawa Timur,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,48.7,68.3,59.6,21.52,78.4,1979
+UCD-SES-60667,Jawa Barat,2026-Q2,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,75.3,32.3,38.9,1.68,89.05,1957
+UCD-SES-60668,DKI Jakarta,2026-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,65.1,83.3,46.2,18.84,71.87,2472
+UCD-SES-60669,Jawa Timur,2026-Q2,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,66.4,52.5,85.0,23.79,83.97,1932
+UCD-SES-60670,DI Yogyakarta,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,83.9,54.0,14.4,1.53,81.83,1921
+UCD-SES-60671,Sumatera Barat,2025-Q4,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,90.6,28.2,18.4,1.65,87.47,2008
+UCD-SES-60672,DI Yogyakarta,2026-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,88.0,42.2,14.2,5.5,83.69,2008
+UCD-SES-60673,Jawa Barat,2026-Q2,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,89.6,23.8,15.3,0.28,94.72,1897
+UCD-SES-60674,DI Yogyakarta,2025-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,91.6,36.3,16.7,4.94,86.88,1984
+UCD-SES-60675,Jawa Timur,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,52.3,57.4,40.7,9.71,79.64,2006
+UCD-SES-60676,Jawa Timur,2025-Q4,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,56.7,81.2,44.7,12.69,78.64,1998
+UCD-SES-60677,Kalimantan Timur,2025-Q2,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,45.9,70.6,69.3,10.08,76.02,1867
+UCD-SES-60678,Jawa Timur,2025-Q4,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,50.4,78.1,64.5,17.34,72.04,1931
+UCD-SES-60679,Kalimantan Timur,2026-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,45.8,59.1,75.6,14.07,81.38,1986
+UCD-SES-60680,Jawa Timur,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,89.4,33.9,10.1,0.47,83.19,1944
+UCD-SES-60681,DI Yogyakarta,2025-Q4,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,54.7,69.6,33.6,11.7,81.67,1929
+UCD-SES-60682,DI Yogyakarta,2025-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,86.3,23.8,24.1,2.81,88.21,1965
+UCD-SES-60683,Kalimantan Timur,2025-Q3,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,45.8,51.4,18.6,5.25,84.48,1933
+UCD-SES-60684,DI Yogyakarta,2026-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,57.5,89.2,48.6,21.04,77.91,1969
+UCD-SES-60685,Bengkulu,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,80.0,20.3,17.5,1.11,89.24,1729
+UCD-SES-60686,Bengkulu,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,82.0,29.1,16.4,4.17,82.66,1834
+UCD-SES-60687,Jawa Barat,2025-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,69.8,61.9,51.6,20.56,80.57,1904
+UCD-SES-60688,Sumatera Barat,2025-Q2,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,43.3,68.5,21.9,14.43,85.37,1937
+UCD-SES-60689,Sumatera Barat,2026-Q1,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,43.7,73.9,48.4,18.4,73.92,1920
+UCD-SES-60690,Jawa Timur,2025-Q3,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,50.1,83.7,67.4,7.19,76.54,1963
+UCD-SES-60691,Jawa Barat,2026-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,84.2,34.4,16.8,1.38,84.72,2033
+UCD-SES-60692,Sumatera Barat,2026-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,42.4,53.6,55.3,10.87,82.76,1969
+UCD-SES-60693,Sumatera Barat,2025-Q2,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,88.1,38.1,17.5,0.39,80.24,1884
+UCD-SES-60694,Jawa Timur,2025-Q2,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,61.2,79.0,74.6,17.93,78.88,1980
+UCD-SES-60695,Jawa Timur,2025-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,38.8,76.6,44.9,14.43,83.5,1972
+UCD-SES-60696,Sumatera Barat,2025-Q4,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,72.1,35.0,21.3,4.75,84.42,1985
+UCD-SES-60697,DKI Jakarta,2026-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,92.6,20.4,24.3,1.14,91.23,2394
+UCD-SES-60698,DI Yogyakarta,2025-Q4,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,36.6,63.8,40.7,23.51,82.18,1998
+UCD-SES-60699,Bengkulu,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,89.8,33.2,14.3,0.78,86.04,1762
+UCD-SES-60700,DI Yogyakarta,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,94.1,26.7,16.1,7.36,84.18,1929
+UCD-SES-60701,Jawa Timur,2025-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,78.0,39.5,10.4,13.43,87.15,2002
+UCD-SES-60702,Sumatera Selatan,2026-Q3,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,41.9,69.7,42.1,24.42,84.7,1969
+UCD-SES-60703,Sumatera Selatan,2025-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,55.0,74.8,77.1,3.33,81.7,1919
+UCD-SES-60704,Bengkulu,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,90.4,32.1,19.7,7.2,86.28,1750
+UCD-SES-60705,Sumatera Selatan,2025-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,52.7,68.1,84.4,18.89,73.37,2050
+UCD-SES-60706,Jawa Barat,2026-Q2,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,94.2,27.3,17.2,10.97,96.21,1936
+UCD-SES-60707,Kalimantan Timur,2025-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,94.1,21.3,12.4,0.12,88.1,2000
+UCD-SES-60708,Sumatera Selatan,2025-Q2,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,59.0,75.9,81.6,14.27,76.76,1937
+UCD-SES-60709,Sumatera Selatan,2025-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,88.8,21.6,16.5,1.76,87.81,1921
+UCD-SES-60710,Jawa Timur,2025-Q4,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,69.4,65.6,100.3,17.4,77.19,1950
+UCD-SES-60711,DKI Jakarta,2025-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,57.4,66.1,70.7,20.53,77.5,2432
+UCD-SES-60712,DI Yogyakarta,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,86.3,37.4,12.9,3.39,84.94,1932
+UCD-SES-60713,DKI Jakarta,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,90.6,23.9,23.5,9.37,86.58,2415
+UCD-SES-60714,DKI Jakarta,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,81.1,33.2,17.4,7.22,86.94,2447
+UCD-SES-60715,Sumatera Barat,2026-Q3,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,43.0,65.1,38.5,13.3,84.36,1968
+UCD-SES-60716,Jawa Timur,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,82.5,42.7,18.6,1.1,79.92,1944
+UCD-SES-60717,Jawa Barat,2025-Q4,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,85.4,25.3,13.0,4.24,84.74,1981
+UCD-SES-60718,Sumatera Barat,2025-Q4,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,81.1,20.0,15.8,9.94,91.03,1912
+UCD-SES-60719,Jawa Barat,2026-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,95.2,22.2,24.3,0.02,89.82,1896
+UCD-SES-60720,DKI Jakarta,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,78.4,36.6,18.9,0.79,87.03,2412
+UCD-SES-60721,Bengkulu,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,59.7,77.6,40.4,15.68,82.7,1735
+UCD-SES-60722,Jawa Barat,2026-Q3,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,78.4,20.8,13.5,3.52,90.15,1988
+UCD-SES-60723,Sumatera Selatan,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,84.8,22.6,11.1,0.33,90.06,1927
+UCD-SES-60724,Jawa Timur,2025-Q4,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,55.0,80.4,47.9,14.9,76.55,1905
+UCD-SES-60725,Bengkulu,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,49.2,68.0,50.6,9.34,82.99,1685
+UCD-SES-60726,Sumatera Barat,2025-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,90.2,12.0,23.1,8.79,94.21,2036
+UCD-SES-60727,DI Yogyakarta,2025-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,83.2,26.0,23.2,0.06,82.71,1950
+UCD-SES-60728,Sumatera Selatan,2026-Q2,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,80.5,39.0,18.3,1.31,78.9,1960
+UCD-SES-60729,Jawa Timur,2025-Q3,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,85.2,22.7,21.5,2.55,92.09,1952
+UCD-SES-60730,Sumatera Barat,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,76.6,38.7,28.4,2.04,87.99,1988
+UCD-SES-60731,Jawa Barat,2025-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,99.0,35.4,18.6,0.62,81.78,1944
+UCD-SES-60732,Kalimantan Timur,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,85.9,34.3,17.4,3.76,80.78,1853
+UCD-SES-60733,Sumatera Barat,2025-Q3,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,89.6,31.8,14.3,0.42,86.91,1966
+UCD-SES-60734,Kalimantan Timur,2026-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,46.4,89.3,46.4,11.81,81.64,1979
+UCD-SES-60735,Sumatera Selatan,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,78.7,33.9,15.7,2.9,81.07,1928
+UCD-SES-60736,DI Yogyakarta,2025-Q1,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,62.4,79.4,46.3,21.4,73.65,1949
+UCD-SES-60737,Sumatera Barat,2026-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,71.9,55.3,57.5,20.99,80.71,1960
+UCD-SES-60738,Jawa Timur,2025-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,80.1,29.4,10.1,2.4,91.92,1942
+UCD-SES-60739,DKI Jakarta,2025-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,79.2,30.9,12.7,5.52,86.51,2403
+UCD-SES-60740,DKI Jakarta,2025-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,62.8,75.3,52.5,18.34,75.48,2337
+UCD-SES-60741,Bengkulu,2025-Q1,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,60.9,71.6,62.5,16.07,79.19,1758
+UCD-SES-60742,Sumatera Selatan,2026-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,67.5,72.2,51.1,18.54,77.28,2000
+UCD-SES-60743,DKI Jakarta,2025-Q1,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,76.5,30.0,12.0,1.57,82.53,2418
+UCD-SES-60744,Bengkulu,2026-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,44.3,68.8,37.8,15.38,74.12,1823
+UCD-SES-60745,Jawa Barat,2026-Q2,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,86.0,36.3,15.1,8.51,87.31,1960
+UCD-SES-60746,Sumatera Selatan,2025-Q2,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,57.4,73.8,33.1,12.4,77.16,2028
+UCD-SES-60747,Jawa Timur,2026-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,57.0,52.3,53.0,17.68,80.42,1945
+UCD-SES-60748,Kalimantan Timur,2026-Q2,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,51.1,78.9,62.4,12.13,77.88,1921
+UCD-SES-60749,DI Yogyakarta,2025-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,65.4,80.7,87.6,17.2,73.04,1946
+UCD-SES-60750,DKI Jakarta,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,58.7,70.4,65.0,7.57,81.72,2486
+UCD-SES-60751,DKI Jakarta,2025-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,48.2,62.0,49.7,10.63,84.96,2368
+UCD-SES-60752,Jawa Barat,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,80.9,35.8,24.1,4.14,88.02,1936
+UCD-SES-60753,DKI Jakarta,2026-Q2,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,91.7,32.6,14.1,1.61,87.27,2421
+UCD-SES-60754,Jawa Timur,2026-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,46.2,60.7,66.1,17.0,82.55,1940
+UCD-SES-60755,Sumatera Barat,2025-Q1,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,50.9,89.4,44.7,21.36,71.16,1938
+UCD-SES-60756,DI Yogyakarta,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,92.4,32.2,11.6,3.74,88.06,1910
+UCD-SES-60757,Sumatera Selatan,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,50.2,86.7,60.5,18.22,78.36,1980
+UCD-SES-60758,Jawa Timur,2025-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,71.3,64.8,71.4,19.07,85.45,1935
+UCD-SES-60759,DI Yogyakarta,2026-Q2,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,41.3,89.4,47.0,19.03,79.07,1966
+UCD-SES-60760,DKI Jakarta,2025-Q2,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,74.5,30.4,16.1,3.81,89.97,2387
+UCD-SES-60761,Sumatera Barat,2025-Q4,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,88.6,21.1,14.8,3.09,84.39,1990
+UCD-SES-60762,Kalimantan Timur,2026-Q2,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,33.2,91.7,46.6,9.26,70.53,1948
+UCD-SES-60763,Kalimantan Timur,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,87.0,39.1,25.7,3.29,81.22,2001
+UCD-SES-60764,Bengkulu,2025-Q3,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,37.1,62.3,48.1,18.68,79.33,1758
+UCD-SES-60765,Kalimantan Timur,2025-Q1,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,51.8,83.5,32.2,27.2,78.79,1961
+UCD-SES-60766,Sumatera Selatan,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,66.5,73.6,66.4,20.69,88.2,1926
+UCD-SES-60767,Jawa Timur,2025-Q2,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,33.7,78.1,52.6,13.15,76.65,1964
+UCD-SES-60768,Jawa Timur,2025-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,53.5,62.0,47.7,17.3,81.53,1941
+UCD-SES-60769,DKI Jakarta,2026-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,85.2,24.7,21.9,4.2,91.01,2420
+UCD-SES-60770,DI Yogyakarta,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,58.7,64.8,36.9,12.74,81.53,1935
+UCD-SES-60771,Sumatera Selatan,2026-Q2,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,34.4,71.4,75.1,11.71,80.77,1994
+UCD-SES-60772,Kalimantan Timur,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,58.8,68.4,45.9,22.55,80.23,1913
+UCD-SES-60773,DKI Jakarta,2025-Q2,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,50.4,63.0,67.7,21.87,76.3,2383
+UCD-SES-60774,DKI Jakarta,2025-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,87.0,32.5,26.4,3.77,86.38,2400
+UCD-SES-60775,Sumatera Selatan,2025-Q3,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,55.0,77.3,52.0,21.43,77.87,2001
+UCD-SES-60776,Sumatera Barat,2026-Q1,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,75.3,61.8,59.0,14.3,80.39,2050
+UCD-SES-60777,Sumatera Barat,2025-Q4,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,94.9,28.6,20.6,3.06,85.58,1909
+UCD-SES-60778,Bengkulu,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,60.6,59.6,33.5,21.68,84.63,1792
+UCD-SES-60779,Jawa Timur,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,60.0,87.2,37.8,19.87,79.14,1884
+UCD-SES-60780,DKI Jakarta,2025-Q2,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,55.2,59.5,32.7,11.52,83.54,2462
+UCD-SES-60781,Jawa Barat,2025-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,40.8,58.6,72.8,17.17,81.75,1921
+UCD-SES-60782,DI Yogyakarta,2025-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,81.8,27.9,21.5,0.71,89.37,1929
+UCD-SES-60783,Jawa Barat,2026-Q1,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,57.7,64.2,80.0,17.66,82.81,1941
+UCD-SES-60784,DKI Jakarta,2026-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,99.0,37.8,16.7,1.16,85.17,2381
+UCD-SES-60785,Jawa Timur,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,90.9,33.6,22.1,5.55,82.95,1947
+UCD-SES-60786,Bengkulu,2026-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,76.6,36.0,18.8,0.53,81.94,1808
+UCD-SES-60787,Sumatera Barat,2026-Q1,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,36.9,77.1,45.3,7.51,81.35,1993
+UCD-SES-60788,Bengkulu,2025-Q4,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,83.1,26.8,13.5,1.09,92.81,1758
+UCD-SES-60789,Kalimantan Timur,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,88.4,28.5,14.4,3.64,83.53,1992
+UCD-SES-60790,Jawa Timur,2026-Q2,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,40.1,67.1,66.5,10.05,81.58,1927
+UCD-SES-60791,Jawa Barat,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,97.2,33.5,16.8,8.45,84.32,2030
+UCD-SES-60792,Kalimantan Timur,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,54.0,61.2,31.2,18.16,78.35,1951
+UCD-SES-60793,Sumatera Barat,2025-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,88.8,31.6,14.5,0.2,85.78,1954
+UCD-SES-60794,DKI Jakarta,2025-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,83.8,23.0,13.1,12.13,77.0,2391
+UCD-SES-60795,Jawa Barat,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,52.0,67.5,46.1,7.75,82.25,1953
+UCD-SES-60796,Sumatera Selatan,2025-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,34.3,65.3,64.2,12.9,84.9,1927
+UCD-SES-60797,Jawa Timur,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,43.6,72.1,40.4,3.15,85.0,1961
+UCD-SES-60798,Jawa Barat,2025-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,35.0,55.1,74.2,13.8,77.48,1916
+UCD-SES-60799,Bengkulu,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,88.8,30.6,11.8,7.07,87.03,1751
+UCD-SES-60800,Sumatera Barat,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,37.6,78.4,77.9,20.84,82.26,1951
+UCD-SES-60801,Sumatera Barat,2026-Q2,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,85.3,18.9,28.2,1.56,91.94,1931
+UCD-SES-60802,DKI Jakarta,2025-Q1,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,55.7,58.2,53.1,16.68,83.32,2379
+UCD-SES-60803,Kalimantan Timur,2025-Q4,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,86.9,29.5,18.9,4.64,89.64,1922
+UCD-SES-60804,DI Yogyakarta,2025-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,89.2,22.6,14.4,4.18,82.05,2007
+UCD-SES-60805,DKI Jakarta,2025-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,78.8,34.9,19.0,6.01,94.42,2392
+UCD-SES-60806,Kalimantan Timur,2025-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,91.4,22.6,13.6,10.74,87.5,1930
+UCD-SES-60807,Jawa Barat,2025-Q4,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,92.6,42.4,15.1,6.19,78.53,1985
+UCD-SES-60808,Jawa Barat,2026-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,86.7,27.1,10.4,3.14,82.74,1975
+UCD-SES-60809,Kalimantan Timur,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,46.9,62.7,160.0,21.09,84.37,1964
+UCD-SES-60810,Jawa Barat,2026-Q3,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,40.6,73.7,68.1,16.32,78.53,1965
+UCD-SES-60811,Sumatera Selatan,2025-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,76.1,24.6,23.6,1.42,89.23,1927
+UCD-SES-60812,Sumatera Barat,2025-Q2,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,84.9,37.7,14.2,3.9,85.47,1975
+UCD-SES-60813,Sumatera Barat,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,82.8,23.5,18.7,0.35,89.16,1911
+UCD-SES-60814,Jawa Barat,2025-Q2,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,36.8,62.8,29.9,13.63,86.33,1978
+UCD-SES-60815,Sumatera Selatan,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,48.3,69.7,28.4,14.48,82.89,2047
+UCD-SES-60816,Jawa Barat,2026-Q2,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,78.2,19.8,25.7,6.69,92.62,1911
+UCD-SES-60817,Sumatera Selatan,2026-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,61.2,62.5,91.5,27.2,80.5,1938
+UCD-SES-60818,Jawa Timur,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,47.6,55.0,54.3,14.99,74.0,1953
+UCD-SES-60819,Bengkulu,2025-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,79.7,29.8,18.3,4.76,84.47,1729
+UCD-SES-60820,Jawa Barat,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,83.9,43.2,16.3,3.1,82.77,2035
+UCD-SES-60821,Sumatera Selatan,2025-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,78.7,26.8,19.8,8.68,88.7,1955
+UCD-SES-60822,Sumatera Selatan,2025-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,46.2,90.6,76.7,11.58,78.56,1915
+UCD-SES-60823,Sumatera Barat,2026-Q2,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,49.2,64.9,45.5,16.56,75.68,1937
+UCD-SES-60824,Bengkulu,2025-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,71.6,16.5,19.5,3.15,85.6,1763
+UCD-SES-60825,DI Yogyakarta,2025-Q4,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,88.3,28.5,21.8,1.39,84.99,1877
+UCD-SES-60826,Jawa Timur,2026-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,80.9,31.8,10.8,11.6,87.52,1970
+UCD-SES-60827,Sumatera Barat,2026-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,79.6,30.1,20.7,8.42,85.33,1965
+UCD-SES-60828,Jawa Barat,2025-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,43.9,65.3,59.7,12.48,83.32,1928
+UCD-SES-60829,Jawa Timur,2026-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,38.4,64.3,64.0,21.6,80.22,1894
+UCD-SES-60830,DI Yogyakarta,2026-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,85.0,31.5,12.5,0.55,86.85,1943
+UCD-SES-60831,Jawa Timur,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,92.1,38.2,29.7,14.5,85.13,1947
+UCD-SES-60832,DI Yogyakarta,2025-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,57.5,50.6,39.5,8.69,83.53,1980
+UCD-SES-60833,Kalimantan Timur,2025-Q1,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,43.8,75.0,34.9,14.39,73.54,1858
+UCD-SES-60834,Jawa Barat,2025-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,56.4,58.7,50.8,21.87,79.37,1951
+UCD-SES-60835,Jawa Timur,2026-Q2,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,52.4,65.5,30.2,16.34,85.29,1943
+UCD-SES-60836,DKI Jakarta,2026-Q2,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,78.7,31.1,14.2,0.17,89.55,2391
+UCD-SES-60837,Jawa Timur,2025-Q2,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,47.1,56.8,82.2,9.65,85.1,1897
+UCD-SES-60838,Jawa Timur,2025-Q4,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,31.5,63.7,47.3,22.9,80.82,1887
+UCD-SES-60839,Kalimantan Timur,2025-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,56.8,72.8,52.7,19.34,72.27,1985
+UCD-SES-60840,DI Yogyakarta,2025-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,82.3,35.5,15.9,3.32,89.38,1938
+UCD-SES-60841,Kalimantan Timur,2025-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,81.6,41.7,35.8,2.49,81.78,1916
+UCD-SES-60842,DKI Jakarta,2025-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,42.4,76.2,40.0,19.45,71.87,2387
+UCD-SES-60843,Kalimantan Timur,2025-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,39.3,76.9,36.3,20.35,79.43,1965
+UCD-SES-60844,Jawa Timur,2025-Q4,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,78.3,26.1,20.5,0.35,88.4,1927
+UCD-SES-60845,Sumatera Barat,2025-Q4,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,48.3,63.9,52.1,16.04,79.43,2004
+UCD-SES-60846,Sumatera Selatan,2025-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,46.9,66.8,38.1,23.59,77.42,1976
+UCD-SES-60847,DKI Jakarta,2026-Q2,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,49.9,57.8,52.3,14.59,84.51,2368
+UCD-SES-60848,DI Yogyakarta,2026-Q2,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,72.3,53.5,61.8,28.67,81.02,1924
+UCD-SES-60849,Jawa Timur,2026-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,46.1,69.6,21.2,17.63,81.56,1961
+UCD-SES-60850,Jawa Timur,2026-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,46.7,62.3,55.2,13.84,72.1,1957
+UCD-SES-60851,DKI Jakarta,2026-Q1,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,48.2,79.1,57.0,22.4,74.9,2390
+UCD-SES-60852,DI Yogyakarta,2026-Q3,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,80.3,33.8,17.5,0.5,86.54,1932
+UCD-SES-60853,Bengkulu,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,57.2,80.4,46.8,18.92,73.76,1742
+UCD-SES-60854,DI Yogyakarta,2026-Q2,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,45.6,75.8,46.3,15.94,76.61,1905
+UCD-SES-60855,DKI Jakarta,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,74.8,43.8,23.0,0.13,82.95,2410
+UCD-SES-60856,Jawa Barat,2025-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,86.9,13.2,20.8,1.99,86.08,1960
+UCD-SES-60857,Jawa Timur,2026-Q3,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,79.2,22.9,12.4,4.14,85.9,1952
+UCD-SES-60858,Bengkulu,2025-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,78.4,25.2,20.7,0.48,86.27,1728
+UCD-SES-60859,DI Yogyakarta,2026-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,86.8,37.4,14.8,2.06,85.36,1961
+UCD-SES-60860,DI Yogyakarta,2025-Q4,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,60.9,88.0,67.1,9.19,81.59,1956
+UCD-SES-60861,Sumatera Selatan,2026-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,64.6,80.9,42.7,19.44,85.71,1912
+UCD-SES-60862,Sumatera Selatan,2025-Q2,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,62.4,59.1,102.7,18.47,81.11,2009
+UCD-SES-60863,DKI Jakarta,2025-Q4,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,37.1,60.7,44.5,11.19,84.91,2381
+UCD-SES-60864,Sumatera Barat,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,50.5,50.4,35.2,4.24,84.08,1955
+UCD-SES-60865,DKI Jakarta,2026-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,38.2,77.1,18.0,21.01,81.32,2370
+UCD-SES-60866,Kalimantan Timur,2025-Q4,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,59.2,56.9,58.6,25.49,79.39,1967
+UCD-SES-60867,Kalimantan Timur,2026-Q3,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,86.9,29.2,16.6,6.57,90.32,1895
+UCD-SES-60868,Bengkulu,2025-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,48.6,81.8,48.7,17.32,78.21,1772
+UCD-SES-60869,Sumatera Barat,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,89.3,42.6,11.0,0.6,82.34,1984
+UCD-SES-60870,Jawa Timur,2026-Q3,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,75.9,38.9,19.3,0.56,81.52,2031
+UCD-SES-60871,Sumatera Barat,2025-Q2,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,49.9,61.8,36.0,17.04,77.98,1882
+UCD-SES-60872,DKI Jakarta,2026-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,56.4,62.2,48.2,12.18,82.18,2373
+UCD-SES-60873,Sumatera Selatan,2025-Q4,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,54.9,65.4,43.7,29.58,80.17,1877
+UCD-SES-60874,Kalimantan Timur,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,52.9,59.9,74.5,21.74,82.28,1977
+UCD-SES-60875,Sumatera Barat,2025-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,79.6,37.5,12.6,4.61,83.27,1901
+UCD-SES-60876,Jawa Timur,2026-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,79.1,26.5,15.9,0.1,89.0,1926
+UCD-SES-60877,Jawa Barat,2026-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,94.0,37.7,14.2,6.37,79.51,1924
+UCD-SES-60878,DKI Jakarta,2026-Q1,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,52.2,75.9,50.4,11.59,74.21,2374
+UCD-SES-60879,Kalimantan Timur,2025-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,85.1,12.0,13.7,5.83,86.68,1929
+UCD-SES-60880,Bengkulu,2026-Q1,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,86.9,34.2,23.3,8.83,89.87,1763
+UCD-SES-60881,Jawa Timur,2025-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,79.4,41.2,17.9,3.77,85.39,2008
+UCD-SES-60882,Jawa Barat,2025-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,41.7,64.2,102.7,17.3,81.68,1944
+UCD-SES-60883,Kalimantan Timur,2026-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,77.2,33.2,15.8,4.37,88.64,1926
+UCD-SES-60884,DKI Jakarta,2025-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,61.6,65.6,78.0,16.72,71.87,2465
+UCD-SES-60885,DKI Jakarta,2025-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,73.7,36.3,22.2,5.87,92.22,2410
+UCD-SES-60886,Jawa Timur,2026-Q2,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,39.6,70.3,48.1,15.52,75.93,1954
+UCD-SES-60887,DI Yogyakarta,2025-Q3,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,58.8,79.3,47.3,13.23,78.6,2038
+UCD-SES-60888,Kalimantan Timur,2026-Q1,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,88.9,18.7,18.3,1.14,90.88,1865
+UCD-SES-60889,DI Yogyakarta,2026-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,72.3,25.8,16.0,1.18,87.44,2031
+UCD-SES-60890,DKI Jakarta,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,58.4,63.8,53.3,14.4,80.36,2407
+UCD-SES-60891,Bengkulu,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,90.0,35.3,19.5,4.77,87.78,1781
+UCD-SES-60892,Bengkulu,2025-Q4,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,53.6,61.7,68.9,8.72,82.47,1786
+UCD-SES-60893,Kalimantan Timur,2026-Q3,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,28.9,61.7,45.2,26.71,85.62,1939
+UCD-SES-60894,Kalimantan Timur,2025-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,46.1,75.9,42.1,13.48,79.31,1989
+UCD-SES-60895,Bengkulu,2025-Q3,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,59.5,70.2,38.6,27.52,83.12,1776
+UCD-SES-60896,Sumatera Selatan,2025-Q3,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,85.1,30.2,12.7,0.08,83.8,1997
+UCD-SES-60897,Kalimantan Timur,2025-Q1,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,37.6,51.5,32.8,20.22,83.23,1950
+UCD-SES-60898,Sumatera Barat,2026-Q1,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,54.2,63.6,41.1,17.69,84.93,1944
+UCD-SES-60899,DI Yogyakarta,2026-Q2,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,77.1,37.4,9.0,5.4,88.14,1953
+UCD-SES-60900,Bengkulu,2026-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,53.0,48.5,56.6,17.05,79.18,1787
+UCD-SES-60901,Sumatera Barat,2025-Q1,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,66.9,51.3,66.7,16.79,85.0,1947
+UCD-SES-60902,Sumatera Selatan,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,74.1,33.7,18.4,3.61,89.77,1968
+UCD-SES-60903,Sumatera Barat,2026-Q1,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,53.0,39.1,36.0,24.7,83.51,1990
+UCD-SES-60904,DI Yogyakarta,2025-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,59.7,63.8,43.1,11.11,78.71,1921
+UCD-SES-60905,DI Yogyakarta,2026-Q2,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,52.8,67.1,61.3,19.96,75.31,1933
+UCD-SES-60906,Sumatera Selatan,2025-Q1,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,62.4,62.0,43.7,16.62,75.69,1963
+UCD-SES-60907,DI Yogyakarta,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,62.9,75.2,37.2,14.84,77.13,1898
+UCD-SES-60908,Sumatera Selatan,2025-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,63.5,68.1,60.1,22.22,80.28,2020
+UCD-SES-60909,Sumatera Barat,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,49.0,77.5,44.0,12.79,73.02,1979
+UCD-SES-60910,Bengkulu,2026-Q2,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,43.0,79.3,89.6,16.95,82.12,1774
+UCD-SES-60911,Kalimantan Timur,2025-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,93.1,27.6,20.7,5.7,87.48,1982
+UCD-SES-60912,Jawa Barat,2025-Q4,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,90.7,32.2,17.8,7.39,90.27,1888
+UCD-SES-60913,DI Yogyakarta,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,78.7,34.5,18.4,0.72,92.52,2048
+UCD-SES-60914,Jawa Timur,2025-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,86.8,31.1,15.0,0.49,88.18,1955
+UCD-SES-60915,DI Yogyakarta,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,44.4,66.2,55.3,14.74,84.09,1962
+UCD-SES-60916,Sumatera Barat,2025-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,81.6,32.3,24.0,0.74,83.49,1929
+UCD-SES-60917,Sumatera Barat,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,46.6,82.8,54.9,17.73,76.9,2088
+UCD-SES-60918,Sumatera Selatan,2025-Q2,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,85.5,46.9,15.6,6.33,80.75,1952
+UCD-SES-60919,DI Yogyakarta,2025-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,80.2,38.5,17.9,5.89,80.38,1945
+UCD-SES-60920,Jawa Timur,2026-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,85.4,12.0,23.6,15.35,89.93,1926
+UCD-SES-60921,Kalimantan Timur,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,52.2,64.6,56.9,12.83,78.73,1956
+UCD-SES-60922,Jawa Timur,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,48.3,84.8,60.6,23.63,75.94,1963
+UCD-SES-60923,Sumatera Selatan,2026-Q2,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,47.7,63.4,73.8,16.16,85.25,1975
+UCD-SES-60924,Jawa Timur,2026-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,45.6,68.0,55.3,18.49,76.56,1976
+UCD-SES-60925,Jawa Timur,2026-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,72.6,52.3,65.0,14.39,87.49,1926
+UCD-SES-60926,Sumatera Selatan,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,59.2,71.9,56.4,12.54,74.81,1933
+UCD-SES-60927,DI Yogyakarta,2026-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,84.5,26.8,15.7,3.14,93.82,1931
+UCD-SES-60928,Sumatera Selatan,2026-Q2,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,59.7,66.1,38.8,23.58,76.41,1909
+UCD-SES-60929,DI Yogyakarta,2025-Q4,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,51.2,71.9,40.7,20.48,80.04,1944
+UCD-SES-60930,DI Yogyakarta,2026-Q2,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,53.0,76.8,59.8,13.22,74.83,1916
+UCD-SES-60931,Jawa Timur,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,90.8,22.2,12.9,0.2,87.52,1931
+UCD-SES-60932,Jawa Barat,2026-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,41.2,68.3,68.1,13.96,84.13,1961
+UCD-SES-60933,Sumatera Selatan,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,81.8,32.4,13.1,2.96,83.13,1942
+UCD-SES-60934,Kalimantan Timur,2026-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,70.9,31.5,18.8,6.92,86.23,1979
+UCD-SES-60935,Jawa Timur,2026-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,85.3,36.4,12.6,0.98,83.26,1954
+UCD-SES-60936,Sumatera Barat,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,61.7,71.3,72.9,24.07,76.18,1916
+UCD-SES-60937,DKI Jakarta,2025-Q4,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,80.5,25.8,24.4,8.33,91.24,2426
+UCD-SES-60938,Bengkulu,2025-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,84.8,31.4,25.0,8.6,86.36,1822
+UCD-SES-60939,Kalimantan Timur,2025-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,48.7,76.1,40.1,25.36,75.24,1860
+UCD-SES-60940,Jawa Barat,2025-Q2,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,85.7,26.3,17.2,5.25,83.85,2007
+UCD-SES-60941,Jawa Timur,2026-Q1,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,86.0,32.9,16.0,6.83,80.35,1922
+UCD-SES-60942,DI Yogyakarta,2026-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,48.7,45.2,62.4,13.5,80.66,1937
+UCD-SES-60943,Kalimantan Timur,2025-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,70.5,35.4,14.6,0.24,80.91,1952
+UCD-SES-60944,DI Yogyakarta,2025-Q4,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,50.4,72.4,55.8,13.57,77.69,1953
+UCD-SES-60945,Bengkulu,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,77.8,29.5,28.1,2.64,83.89,1732
+UCD-SES-60946,Kalimantan Timur,2026-Q1,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,59.1,67.9,37.6,24.95,76.61,1893
+UCD-SES-60947,DI Yogyakarta,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,44.2,69.2,42.9,15.34,83.93,2009
+UCD-SES-60948,DKI Jakarta,2025-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,54.4,48.3,63.4,19.5,81.84,2347
+UCD-SES-60949,Sumatera Barat,2025-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,84.5,37.3,18.4,6.41,85.12,1943
+UCD-SES-60950,Jawa Barat,2026-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,82.0,31.6,20.0,1.58,83.89,2010
+UCD-SES-60951,DI Yogyakarta,2026-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,39.3,62.5,38.3,20.07,82.98,1993
+UCD-SES-60952,Kalimantan Timur,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,90.0,43.5,17.6,6.96,88.4,1933
+UCD-SES-60953,Jawa Timur,2025-Q4,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,48.4,53.4,30.9,17.2,82.08,1959
+UCD-SES-60954,DKI Jakarta,2026-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,89.7,39.7,18.3,3.11,83.55,2454
+UCD-SES-60955,Sumatera Barat,2025-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,52.0,61.6,27.1,18.91,86.93,1960
+UCD-SES-60956,Kalimantan Timur,2025-Q4,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,41.9,77.1,38.7,18.72,78.02,1879
+UCD-SES-60957,Kalimantan Timur,2025-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,85.7,34.9,21.5,1.46,87.81,1936
+UCD-SES-60958,Bengkulu,2025-Q3,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,77.9,30.4,15.3,0.24,91.35,1768
+UCD-SES-60959,Jawa Timur,2025-Q1,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,54.0,62.2,47.8,12.71,79.3,1933
+UCD-SES-60960,Bengkulu,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,91.8,27.2,25.5,1.52,84.28,1766
+UCD-SES-60961,Sumatera Selatan,2026-Q2,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,62.5,70.5,51.2,20.44,76.66,1930
+UCD-SES-60962,Jawa Timur,2026-Q2,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,85.4,18.9,31.6,7.21,92.05,1915
+UCD-SES-60963,Jawa Barat,2026-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,86.5,34.6,24.7,4.63,87.93,1891
+UCD-SES-60964,Sumatera Barat,2026-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,91.6,49.0,17.2,0.24,82.88,1955
+UCD-SES-60965,Sumatera Selatan,2025-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,49.5,44.6,40.0,21.42,79.82,1963
+UCD-SES-60966,Jawa Barat,2026-Q1,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,85.9,35.5,18.1,4.98,80.99,1920
+UCD-SES-60967,Bengkulu,2025-Q2,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,57.5,55.5,49.1,20.05,86.56,1783
+UCD-SES-60968,Sumatera Barat,2025-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,61.7,70.5,38.4,21.54,80.97,1934
+UCD-SES-60969,DKI Jakarta,2025-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,80.5,43.0,13.8,0.32,76.89,2378
+UCD-SES-60970,Bengkulu,2026-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,76.1,70.8,80.6,21.84,75.53,1721
+UCD-SES-60971,Jawa Barat,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,86.1,37.1,15.5,2.77,86.34,1933
+UCD-SES-60972,Sumatera Selatan,2026-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,86.6,33.6,14.9,1.74,79.55,1937
+UCD-SES-60973,Jawa Barat,2025-Q4,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,42.5,64.2,45.6,6.65,84.74,1878
+UCD-SES-60974,DI Yogyakarta,2026-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,47.9,78.8,33.9,8.83,80.35,1975
+UCD-SES-60975,Sumatera Barat,2026-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,63.4,57.4,38.6,19.84,77.52,1961
+UCD-SES-60976,Sumatera Selatan,2025-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,90.3,37.6,11.3,4.73,81.28,1940
+UCD-SES-60977,DKI Jakarta,2026-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,77.8,30.9,13.1,5.23,87.32,2401
+UCD-SES-60978,Jawa Timur,2026-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,82.5,34.1,17.4,0.05,84.89,1942
+UCD-SES-60979,DKI Jakarta,2026-Q1,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,83.6,38.9,14.7,0.38,83.35,2444
+UCD-SES-60980,DKI Jakarta,2025-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,57.3,71.2,37.4,17.9,80.62,2404
+UCD-SES-60981,DKI Jakarta,2025-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,81.4,23.1,22.8,2.16,86.53,2438
+UCD-SES-60982,DKI Jakarta,2025-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,80.9,43.7,14.4,9.39,80.86,2409
+UCD-SES-60983,Sumatera Selatan,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,90.9,37.2,9.5,2.13,82.63,1879
+UCD-SES-60984,Jawa Barat,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,91.9,32.3,19.2,0.34,83.2,1949
+UCD-SES-60985,Kalimantan Timur,2026-Q3,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,83.1,46.7,14.7,2.86,81.32,1913
+UCD-SES-60986,Sumatera Barat,2025-Q1,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,40.1,65.5,75.3,10.08,82.46,1908
+UCD-SES-60987,Sumatera Selatan,2026-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,86.0,47.0,9.0,1.04,81.08,1960
+UCD-SES-60988,Kalimantan Timur,2026-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,85.2,40.2,13.1,1.98,90.73,1939
+UCD-SES-60989,Sumatera Selatan,2026-Q3,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,61.1,63.7,54.2,10.58,76.48,1982
+UCD-SES-60990,Sumatera Selatan,2025-Q2,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,59.1,66.5,57.1,24.05,77.68,1954
+UCD-SES-60991,Sumatera Barat,2025-Q1,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,43.9,74.9,36.3,16.56,80.53,1923
+UCD-SES-60992,DI Yogyakarta,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,71.1,64.1,41.2,19.7,85.21,2003
+UCD-SES-60993,Jawa Barat,2025-Q2,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,87.2,24.0,17.5,9.34,82.05,1977
+UCD-SES-60994,Bengkulu,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,86.6,30.6,16.7,3.91,87.23,1766
+UCD-SES-60995,Bengkulu,2025-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,46.2,59.9,52.9,16.73,84.76,1746
+UCD-SES-60996,DI Yogyakarta,2025-Q1,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,43.0,87.7,52.8,17.87,79.79,1970
+UCD-SES-60997,Sumatera Selatan,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,53.7,68.4,33.7,12.72,80.72,1915
+UCD-SES-60998,Jawa Barat,2026-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,93.0,31.8,14.3,0.63,81.56,2003
+UCD-SES-60999,Jawa Barat,2026-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,91.7,30.5,17.0,1.39,82.38,1974
+UCD-SES-61000,DI Yogyakarta,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,94.4,39.5,25.0,0.72,86.56,2027
+UCD-SES-61001,Jawa Barat,2026-Q1,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,93.2,32.7,19.4,4.69,85.9,1892
+UCD-SES-61002,Kalimantan Timur,2026-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,75.6,19.0,16.6,12.63,91.1,2002
+UCD-SES-61003,Bengkulu,2026-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,81.5,47.4,16.5,3.24,90.41,1744
+UCD-SES-61004,DKI Jakarta,2025-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,73.1,30.9,17.0,7.33,79.72,2452
+UCD-SES-61005,DKI Jakarta,2025-Q4,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,85.1,36.0,20.5,3.72,89.46,2366
+UCD-SES-61006,DI Yogyakarta,2025-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,38.9,54.3,41.6,20.12,79.2,2051
+UCD-SES-61007,Sumatera Barat,2026-Q3,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,42.9,66.9,39.1,21.4,80.38,1935
+UCD-SES-61008,Bengkulu,2025-Q2,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,86.6,37.5,16.8,0.73,85.79,1730
+UCD-SES-61009,Sumatera Selatan,2026-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,51.2,63.9,38.5,21.99,82.9,1951
+UCD-SES-61010,Sumatera Barat,2025-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,75.3,68.1,22.2,14.15,77.82,1954
+UCD-SES-61011,Kalimantan Timur,2025-Q4,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,46.5,79.6,67.3,11.91,75.83,1932
+UCD-SES-61012,Jawa Timur,2026-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,90.6,28.3,16.3,0.04,86.26,1921
+UCD-SES-61013,Kalimantan Timur,2025-Q1,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,58.5,68.6,81.6,17.2,78.35,1949
+UCD-SES-61014,DKI Jakarta,2025-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,88.9,30.5,22.6,1.68,90.21,2441
+UCD-SES-61015,Sumatera Barat,2025-Q1,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,49.9,75.1,30.6,31.21,79.95,1890
+UCD-SES-61016,Sumatera Barat,2026-Q1,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,57.8,70.0,54.3,16.85,80.24,1937
+UCD-SES-61017,DI Yogyakarta,2025-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,81.0,30.4,18.5,3.02,86.9,1963
+UCD-SES-61018,DKI Jakarta,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,40.5,61.2,40.9,12.71,81.46,2416
+UCD-SES-61019,Jawa Timur,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,56.4,73.5,42.1,21.59,78.92,1960
+UCD-SES-61020,Sumatera Selatan,2025-Q2,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,34.6,66.1,49.9,10.05,82.48,1982
+UCD-SES-61021,Jawa Barat,2025-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,79.4,41.9,11.9,2.07,82.47,1983
+UCD-SES-61022,DI Yogyakarta,2026-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,82.8,32.4,25.7,3.13,88.77,2006
+UCD-SES-61023,Jawa Timur,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,49.7,57.7,43.5,11.59,82.01,1954
+UCD-SES-61024,Jawa Timur,2026-Q2,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,84.9,29.4,24.4,4.16,86.91,1987
+UCD-SES-61025,DI Yogyakarta,2025-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,59.4,65.7,54.1,16.77,84.46,1951
+UCD-SES-61026,DKI Jakarta,2026-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,74.6,28.7,19.9,1.39,91.92,2411
+UCD-SES-61027,DKI Jakarta,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,65.7,61.4,64.2,18.39,78.88,2437
+UCD-SES-61028,Sumatera Barat,2025-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,37.8,65.2,46.2,7.18,79.76,1995
+UCD-SES-61029,Jawa Timur,2025-Q2,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,76.5,52.5,33.9,18.29,81.94,1961
+UCD-SES-61030,DKI Jakarta,2026-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,87.5,34.4,15.0,1.3,80.23,2427
+UCD-SES-61031,Jawa Timur,2026-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,75.8,27.3,14.6,5.57,87.88,1923
+UCD-SES-61032,DKI Jakarta,2026-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,60.5,77.1,38.9,19.7,76.8,2368
+UCD-SES-61033,Sumatera Selatan,2025-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,56.3,63.0,49.4,17.44,80.82,1934
+UCD-SES-61034,Kalimantan Timur,2025-Q4,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,79.6,27.8,13.7,1.9,91.58,1960
+UCD-SES-61035,Kalimantan Timur,2026-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,30.9,80.1,66.3,22.47,73.58,1937
+UCD-SES-61036,Bengkulu,2026-Q1,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,79.4,23.6,14.5,1.87,88.2,1744
+UCD-SES-61037,DI Yogyakarta,2025-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,51.3,70.9,57.6,17.14,79.04,1982
+UCD-SES-61038,Jawa Barat,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,36.3,84.1,56.5,9.14,81.02,1940
+UCD-SES-61039,Jawa Timur,2026-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,36.4,62.4,129.9,19.41,77.35,1948
+UCD-SES-61040,Sumatera Selatan,2026-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,32.8,70.2,26.3,19.79,78.68,1934
+UCD-SES-61041,DI Yogyakarta,2025-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,56.8,55.5,53.9,20.44,77.1,1886
+UCD-SES-61042,Sumatera Selatan,2025-Q4,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,33.4,70.2,40.0,13.93,75.39,1956
+UCD-SES-61043,Bengkulu,2026-Q2,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,54.9,64.6,58.8,18.21,80.83,1761
+UCD-SES-61044,Jawa Barat,2025-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,85.9,37.3,10.8,3.6,89.66,1887
+UCD-SES-61045,Jawa Timur,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,52.4,83.7,49.2,22.92,69.34,1996
+UCD-SES-61046,DKI Jakarta,2025-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,37.6,72.1,66.8,18.67,86.36,2334
+UCD-SES-61047,Bengkulu,2025-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,79.8,27.3,17.7,0.86,87.52,1799
+UCD-SES-61048,DI Yogyakarta,2025-Q4,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,78.1,34.0,18.6,1.77,86.66,1960
+UCD-SES-61049,Sumatera Barat,2026-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,74.1,29.1,28.2,0.02,83.63,1958
+UCD-SES-61050,Jawa Barat,2025-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,85.8,44.3,15.9,1.4,84.67,1967
+UCD-SES-61051,Jawa Timur,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,52.7,71.6,55.0,20.52,73.06,2010
+UCD-SES-61052,Jawa Timur,2026-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,52.6,63.6,68.3,18.73,79.0,1976
+UCD-SES-61053,DKI Jakarta,2026-Q3,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,73.5,30.5,15.5,1.56,90.15,2372
+UCD-SES-61054,Jawa Timur,2025-Q4,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,56.8,75.5,54.2,13.66,81.77,1867
+UCD-SES-61055,Sumatera Selatan,2026-Q1,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,45.8,77.9,40.9,17.78,77.06,1943
+UCD-SES-61056,DKI Jakarta,2025-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,85.2,35.8,21.8,1.82,81.44,2350
+UCD-SES-61057,Sumatera Barat,2025-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,59.2,82.3,67.8,25.03,81.51,1922
+UCD-SES-61058,Sumatera Selatan,2025-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,79.6,29.4,15.2,0.61,84.64,1968
+UCD-SES-61059,DI Yogyakarta,2025-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,82.3,28.9,23.0,0.8,85.42,1916
+UCD-SES-61060,Jawa Barat,2025-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,81.0,33.6,18.1,1.29,94.7,1926
+UCD-SES-61061,Jawa Barat,2025-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,41.1,75.5,57.5,16.6,81.31,1964
+UCD-SES-61062,DKI Jakarta,2025-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,60.8,75.0,44.1,9.9,72.32,2381
+UCD-SES-61063,DI Yogyakarta,2026-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,94.0,23.5,18.5,0.77,88.49,1926
+UCD-SES-61064,Jawa Timur,2025-Q1,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,82.3,28.7,16.3,1.13,81.82,1957
+UCD-SES-61065,Jawa Timur,2025-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,58.0,55.8,51.4,18.59,82.47,1954
+UCD-SES-61066,DKI Jakarta,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,92.4,37.0,18.1,0.76,85.7,2369
+UCD-SES-61067,DKI Jakarta,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,52.9,63.6,78.3,15.58,82.67,2359
+UCD-SES-61068,Kalimantan Timur,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,51.9,77.6,95.6,13.11,81.63,1923
+UCD-SES-61069,DKI Jakarta,2026-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,80.9,54.6,25.3,6.97,82.01,2409
+UCD-SES-61070,DKI Jakarta,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,49.3,76.1,29.6,19.87,80.32,2381
+UCD-SES-61071,Sumatera Barat,2025-Q4,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,94.0,42.4,19.9,10.5,82.29,1985
+UCD-SES-61072,Kalimantan Timur,2026-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,39.4,69.0,70.6,15.78,82.04,1966
+UCD-SES-61073,Kalimantan Timur,2026-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,51.7,68.1,39.7,20.21,78.4,1966
+UCD-SES-61074,Jawa Timur,2026-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,50.6,74.9,83.8,17.18,70.24,1880
+UCD-SES-61075,Bengkulu,2026-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,89.2,29.4,21.5,0.67,87.58,1770
+UCD-SES-61076,DI Yogyakarta,2025-Q2,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,43.3,89.8,57.5,18.2,78.63,2010
+UCD-SES-61077,Sumatera Barat,2025-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,66.8,53.3,35.6,8.51,81.86,1975
+UCD-SES-61078,Jawa Barat,2026-Q2,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,45.8,78.1,38.8,25.01,80.16,1861
+UCD-SES-61079,DKI Jakarta,2026-Q1,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,77.9,27.0,14.8,3.83,82.3,2370
+UCD-SES-61080,Bengkulu,2025-Q2,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,50.7,83.4,43.9,18.92,74.56,1779
+UCD-SES-61081,Jawa Barat,2026-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,62.6,62.1,42.2,24.7,82.22,1980
+UCD-SES-61082,Sumatera Selatan,2025-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,50.3,77.0,75.0,3.22,76.27,1916
+UCD-SES-61083,DKI Jakarta,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,40.7,75.2,49.1,8.2,82.22,2419
+UCD-SES-61084,DI Yogyakarta,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,58.0,63.4,33.6,15.23,82.19,1984
+UCD-SES-61085,Jawa Barat,2025-Q3,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,91.0,21.2,28.5,5.54,84.52,1910
+UCD-SES-61086,DI Yogyakarta,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,63.9,93.8,64.6,6.11,72.06,1894
+UCD-SES-61087,DI Yogyakarta,2026-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,59.4,76.1,48.3,26.63,79.48,1976
+UCD-SES-61088,Bengkulu,2026-Q1,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,41.3,69.4,32.3,6.06,73.17,1760
+UCD-SES-61089,Sumatera Selatan,2026-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,50.0,64.5,71.0,17.66,82.98,1998
+UCD-SES-61090,DKI Jakarta,2026-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,50.1,73.2,46.9,11.92,75.98,2403
+UCD-SES-61091,Sumatera Barat,2026-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,88.2,26.9,22.9,0.87,86.33,2005
+UCD-SES-61092,Jawa Barat,2025-Q1,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,88.8,35.4,40.8,1.44,82.03,1906
+UCD-SES-61093,DI Yogyakarta,2026-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,83.3,17.3,27.2,4.08,88.21,1946
+UCD-SES-61094,Kalimantan Timur,2026-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,44.1,63.1,87.8,13.95,81.46,1923
+UCD-SES-61095,Jawa Timur,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,76.3,26.5,23.4,1.9,93.38,1967
+UCD-SES-61096,Bengkulu,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,83.1,37.6,17.0,2.59,82.78,1798
+UCD-SES-61097,DKI Jakarta,2025-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,55.9,51.5,45.9,16.0,83.22,2381
+UCD-SES-61098,Jawa Barat,2026-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,86.8,43.9,28.4,0.68,85.88,1989
+UCD-SES-61099,Jawa Timur,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,42.7,72.9,37.1,17.47,77.07,1949
+UCD-SES-61100,Kalimantan Timur,2026-Q1,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,35.7,63.1,37.7,12.4,77.53,1929
+UCD-SES-61101,Bengkulu,2025-Q3,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,47.5,77.4,61.3,11.95,83.07,1813
+UCD-SES-61102,DI Yogyakarta,2025-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,58.7,74.6,33.8,21.49,78.86,1960
+UCD-SES-61103,Jawa Timur,2025-Q1,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,57.3,67.8,42.3,10.6,78.76,1995
+UCD-SES-61104,Kalimantan Timur,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,51.0,65.7,33.4,12.06,85.44,1970
+UCD-SES-61105,Sumatera Barat,2026-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,52.0,74.4,64.8,25.11,72.58,1941
+UCD-SES-61106,DI Yogyakarta,2025-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,86.4,39.6,19.2,3.8,84.19,1936
+UCD-SES-61107,Bengkulu,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,50.6,58.9,28.4,15.3,81.44,1766
+UCD-SES-61108,DKI Jakarta,2026-Q1,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,52.4,71.4,25.6,19.38,82.95,2410
+UCD-SES-61109,Sumatera Barat,2025-Q1,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,94.3,45.8,16.8,4.17,75.9,1995
+UCD-SES-61110,Kalimantan Timur,2026-Q2,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,44.2,57.8,56.9,10.08,79.93,1909
+UCD-SES-61111,DKI Jakarta,2026-Q3,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,64.5,67.7,23.0,14.78,78.3,2397
+UCD-SES-61112,DI Yogyakarta,2026-Q2,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,80.4,41.8,12.0,1.11,81.48,1916
+UCD-SES-61113,DKI Jakarta,2026-Q2,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,65.9,69.9,41.0,15.83,80.02,2369
+UCD-SES-61114,Jawa Timur,2025-Q4,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,82.9,25.0,22.4,5.74,85.04,1919
+UCD-SES-61115,DI Yogyakarta,2025-Q1,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,52.9,63.5,85.0,15.55,82.24,1924
+UCD-SES-61116,Jawa Timur,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,81.9,26.1,27.4,1.59,88.34,1910
+UCD-SES-61117,Kalimantan Timur,2025-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,78.1,28.5,27.7,1.09,85.03,1908
+UCD-SES-61118,Jawa Timur,2026-Q3,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,83.2,26.9,15.4,4.53,85.92,1946
+UCD-SES-61119,Jawa Timur,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,82.1,38.9,9.2,1.62,87.55,1901
+UCD-SES-61120,Sumatera Selatan,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,41.3,74.9,35.7,12.67,78.76,1931
+UCD-SES-61121,Sumatera Selatan,2025-Q3,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,31.4,75.0,40.0,25.15,78.08,1975
+UCD-SES-61122,Jawa Barat,2025-Q1,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,58.8,60.6,39.9,21.55,85.93,1958
+UCD-SES-61123,Sumatera Selatan,2025-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,47.5,73.5,22.8,13.37,80.3,1933
+UCD-SES-61124,Jawa Barat,2025-Q4,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,33.5,67.3,51.9,12.67,80.03,2006
+UCD-SES-61125,Jawa Barat,2026-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,82.0,37.9,44.0,1.01,87.43,1978
+UCD-SES-61126,Jawa Barat,2026-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,95.7,27.3,12.4,0.34,86.46,1906
+UCD-SES-61127,Kalimantan Timur,2025-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,75.5,30.0,14.1,0.15,87.87,1990
+UCD-SES-61128,Sumatera Barat,2026-Q2,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,61.3,64.9,84.0,19.67,84.42,1987
+UCD-SES-61129,Jawa Timur,2025-Q2,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,79.4,45.6,19.1,1.49,87.05,1980
+UCD-SES-61130,Kalimantan Timur,2025-Q3,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,90.4,34.1,12.1,3.03,87.35,1976
+UCD-SES-61131,Jawa Barat,2025-Q1,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,71.0,17.2,13.4,7.89,90.41,1972
+UCD-SES-61132,Sumatera Barat,2025-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,86.2,38.7,21.5,0.16,90.73,1925
+UCD-SES-61133,Sumatera Barat,2026-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,82.2,33.8,19.2,0.32,85.36,1976
+UCD-SES-61134,Bengkulu,2025-Q1,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,83.9,33.7,21.5,1.34,86.24,1724
+UCD-SES-61135,DKI Jakarta,2025-Q4,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,90.5,24.7,15.8,9.75,87.17,2449
+UCD-SES-61136,Kalimantan Timur,2026-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,89.6,35.7,16.5,2.23,90.3,1942
+UCD-SES-61137,Jawa Timur,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,25.0,84.6,25.1,20.59,78.42,1959
+UCD-SES-61138,Bengkulu,2025-Q2,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,88.1,31.4,14.9,1.59,87.18,1692
+UCD-SES-61139,Jawa Barat,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,59.0,58.8,62.6,13.24,89.03,1964
+UCD-SES-61140,Jawa Barat,2025-Q1,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,87.3,37.1,25.1,2.83,87.1,2001
+UCD-SES-61141,DKI Jakarta,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,54.9,71.8,67.3,23.95,79.37,2416
+UCD-SES-61142,Sumatera Barat,2026-Q3,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,79.9,36.3,14.9,4.72,83.76,1861
+UCD-SES-61143,Kalimantan Timur,2025-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,80.6,36.8,20.1,6.91,85.84,1935
+UCD-SES-61144,Sumatera Selatan,2026-Q1,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,86.4,36.1,16.8,8.93,87.77,1985
+UCD-SES-61145,Sumatera Selatan,2026-Q3,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,81.4,49.4,18.0,0.38,85.87,1984
+UCD-SES-61146,DI Yogyakarta,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,40.5,68.4,67.1,26.11,82.24,1954
+UCD-SES-61147,Sumatera Barat,2025-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,40.6,62.5,62.7,26.53,77.31,1931
+UCD-SES-61148,DKI Jakarta,2026-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,64.3,49.0,50.9,11.73,84.73,2384
+UCD-SES-61149,Sumatera Selatan,2025-Q2,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,30.5,76.0,50.1,18.18,78.67,1952
+UCD-SES-61150,DI Yogyakarta,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,77.4,32.0,20.1,0.82,85.87,1914
+UCD-SES-61151,DI Yogyakarta,2026-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,42.0,74.8,38.2,12.19,83.35,1974
+UCD-SES-61152,DI Yogyakarta,2026-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,81.0,30.9,14.5,3.02,83.62,1924
+UCD-SES-61153,DI Yogyakarta,2025-Q2,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,88.3,27.5,18.1,0.52,87.42,1941
+UCD-SES-61154,Sumatera Barat,2025-Q4,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,81.8,36.5,14.5,0.36,78.33,1925
+UCD-SES-61155,Jawa Timur,2026-Q2,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,85.3,21.8,21.1,1.49,85.96,1958
+UCD-SES-61156,DI Yogyakarta,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,67.8,48.8,84.5,3.7,75.9,1925
+UCD-SES-61157,Sumatera Selatan,2026-Q2,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,59.2,72.9,49.1,21.67,76.63,1959
+UCD-SES-61158,DKI Jakarta,2025-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,57.6,86.8,69.7,14.46,75.58,2352
+UCD-SES-61159,DI Yogyakarta,2025-Q1,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,68.2,27.0,18.4,10.1,88.58,2023
+UCD-SES-61160,Sumatera Selatan,2025-Q1,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,86.6,26.5,20.8,8.56,89.41,1962
+UCD-SES-61161,Kalimantan Timur,2025-Q4,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,86.2,32.9,28.9,0.65,87.7,2017
+UCD-SES-61162,Jawa Barat,2025-Q4,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,63.8,77.5,22.3,13.25,77.97,2023
+UCD-SES-61163,Jawa Timur,2026-Q1,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,54.8,65.6,78.1,22.54,77.57,1952
+UCD-SES-61164,Kalimantan Timur,2025-Q4,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,81.6,37.5,17.4,0.58,84.72,1964
+UCD-SES-61165,DI Yogyakarta,2026-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,49.2,66.6,33.7,12.63,73.85,1924
+UCD-SES-61166,Sumatera Selatan,2026-Q1,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,81.8,30.6,27.5,1.25,88.03,1959
+UCD-SES-61167,Kalimantan Timur,2026-Q1,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,86.1,42.4,12.3,5.03,80.92,1926
+UCD-SES-61168,DKI Jakarta,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,75.7,12.0,18.7,0.35,90.96,2410
+UCD-SES-61169,Jawa Barat,2026-Q3,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,91.8,28.7,15.4,8.34,85.66,1995
+UCD-SES-61170,Jawa Barat,2026-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,90.9,27.2,21.2,3.06,82.39,1920
+UCD-SES-61171,Kalimantan Timur,2026-Q1,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,51.3,80.8,34.3,15.91,82.3,1959
+UCD-SES-61172,DKI Jakarta,2026-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,53.5,62.8,36.0,16.6,76.38,2344
+UCD-SES-61173,Sumatera Selatan,2025-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,74.2,66.0,76.9,15.96,73.78,1978
+UCD-SES-61174,Kalimantan Timur,2025-Q4,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,67.5,60.6,99.2,11.56,82.5,1973
+UCD-SES-61175,Jawa Barat,2025-Q1,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,40.7,76.1,61.9,14.77,75.18,1996
+UCD-SES-61176,DKI Jakarta,2025-Q3,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,63.9,79.2,32.8,11.79,72.16,2412
+UCD-SES-61177,Sumatera Barat,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,87.6,23.1,16.9,0.49,91.55,1986
+UCD-SES-61178,Sumatera Barat,2025-Q4,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,56.1,70.7,42.1,7.42,75.05,1954
+UCD-SES-61179,Sumatera Barat,2025-Q4,Peringatan_Dini_Bencana,UI_Lama_Penuh_Chartjunk,50.0,64.0,52.0,21.76,81.25,1955
+UCD-SES-61180,Jawa Timur,2025-Q3,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,93.4,24.9,10.7,2.01,89.57,1993
+UCD-SES-61181,Jawa Barat,2025-Q4,Peringatan_Dini_Bencana,UI_Baru_UCD_Clean,80.0,40.6,15.2,0.68,84.97,1935
+UCD-SES-61182,Kalimantan Timur,2026-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,50.4,69.7,65.8,6.12,75.88,1907
+UCD-SES-61183,Sumatera Selatan,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,29.1,65.6,71.9,22.2,84.9,1867
+UCD-SES-61184,Kalimantan Timur,2025-Q2,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,53.9,69.7,33.3,16.25,78.02,1932
+UCD-SES-61185,Bengkulu,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,50.6,67.3,106.2,15.94,80.55,1724
+UCD-SES-61186,DKI Jakarta,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,84.1,26.0,10.9,5.76,86.87,2420
+UCD-SES-61187,Kalimantan Timur,2026-Q1,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,57.4,60.4,44.9,15.53,79.06,2001
+UCD-SES-61188,DI Yogyakarta,2026-Q1,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,79.4,26.8,13.5,2.33,89.48,2020
+UCD-SES-61189,Jawa Timur,2025-Q2,Perizinan_UMKM_Digital,UI_Baru_UCD_Clean,87.2,42.5,21.3,3.1,80.72,1939
+UCD-SES-61190,Sumatera Barat,2026-Q3,Layanan_Kesehatan_Terpadu,UI_Baru_UCD_Clean,81.1,32.0,26.0,2.84,88.27,2002
+UCD-SES-61191,Sumatera Barat,2025-Q4,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,64.2,41.2,39.4,11.57,82.75,1940
+UCD-SES-61192,Bengkulu,2026-Q2,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,42.9,74.8,39.7,18.17,73.14,1737
+UCD-SES-61193,Kalimantan Timur,2025-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,62.2,73.8,48.2,14.18,84.07,1928
+UCD-SES-61194,Kalimantan Timur,2025-Q4,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,88.0,36.6,37.1,0.1,87.49,1910
+UCD-SES-61195,Kalimantan Timur,2025-Q4,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,83.0,22.4,17.4,1.46,91.39,1940
+UCD-SES-61196,Jawa Barat,2026-Q2,Transparansi_Anggaran_Publik,UI_Baru_UCD_Clean,77.9,39.6,16.5,4.88,82.04,1926
+UCD-SES-61197,DKI Jakarta,2025-Q1,Layanan_Kesehatan_Terpadu,UI_Lama_Penuh_Chartjunk,49.9,59.9,71.5,21.05,92.86,2386
+UCD-SES-61198,DKI Jakarta,2026-Q2,Perizinan_UMKM_Digital,UI_Lama_Penuh_Chartjunk,48.5,53.0,46.3,7.96,84.83,2412
+UCD-SES-61199,DKI Jakarta,2025-Q3,Transparansi_Anggaran_Publik,UI_Lama_Penuh_Chartjunk,42.9,67.1,81.6,16.46,82.07,2398
